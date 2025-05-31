@@ -1,0 +1,9 @@
+Use ZYNQ-7000 SoC (XC7Z010-1CLG400) to create a SoM that includes
+	RAM
+	eMMC
+	Power
+	Eth PHY
+
+
+
+* Attn to DDR_VREF (https://hands.com/~lkcl/eoma/rockchip_rk3288/AN3940.pdf)
