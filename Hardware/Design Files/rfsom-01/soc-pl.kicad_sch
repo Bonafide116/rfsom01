@@ -6864,7 +6864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "737b6a80-b8c8-45ca-b5ed-3de65342b438")
-		(property "Reference" "U?"
+		(property "Reference" "U8"
 			(at 80.01 30.48 0)
 			(effects
 				(font
@@ -6881,7 +6881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_BGA:Xilinx_CLG400"
+		(property "Footprint" "ICs:CLG400"
 			(at 64.77 33.02 0)
 			(effects
 				(font
@@ -8024,7 +8024,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/01ce84f5-9c7a-43d2-9b5a-4d08cbdcd7ae/dcd4ebf5-9bf5-4a13-8e67-04058a43970d"
-					(reference "U?")
+					(reference "U8")
 					(unit 2)
 				)
 			)
@@ -8040,7 +8040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1a747f2-ce50-426f-a440-15fc7c27da64")
-		(property "Reference" "U?"
+		(property "Reference" "U8"
 			(at 118.11 31.75 0)
 			(effects
 				(font
@@ -8057,7 +8057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_BGA:Xilinx_CLG400"
+		(property "Footprint" "ICs:CLG400"
 			(at 102.87 34.29 0)
 			(effects
 				(font
@@ -9200,7 +9200,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/01ce84f5-9c7a-43d2-9b5a-4d08cbdcd7ae/dcd4ebf5-9bf5-4a13-8e67-04058a43970d"
-					(reference "U?")
+					(reference "U8")
 					(unit 3)
 				)
 			)

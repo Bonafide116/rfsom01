@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "f4153929-6cbd-44c4-bb5b-0d30b6044141")
+	(uuid "5ad62836-ec27-48ab-8325-cc645565ce28")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Capacitors:CL05B103KB5NNNC"
@@ -2616,7 +2616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dfac9fc-e078-4a22-ad10-58f9723821b1")
-		(property "Reference" "C?"
+		(property "Reference" "C81"
 			(at 240.03 116.8399 0)
 			(effects
 				(font
@@ -2679,7 +2679,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "C?")
+					(reference "C81")
 					(unit 1)
 				)
 			)
@@ -2695,7 +2695,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "399e7411-4d5b-457b-895c-ff3e53eb195b")
-		(property "Reference" "C?"
+		(property "Reference" "C79"
 			(at 240.03 57.1499 0)
 			(effects
 				(font
@@ -2758,7 +2758,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "C?")
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -2839,7 +2839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41f20903-fbc7-43a0-bfe5-1b56737b3dc6")
-		(property "Reference" "R?"
+		(property "Reference" "R26"
 			(at 115.57 109.2199 0)
 			(effects
 				(font
@@ -2902,7 +2902,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "R?")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -3115,7 +3115,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6820b2c2-3570-41a9-9c5e-ab6dbdc54c17")
-		(property "Reference" "R?"
+		(property "Reference" "R25"
 			(at 107.95 109.2199 0)
 			(effects
 				(font
@@ -3178,7 +3178,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "R?")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -3392,7 +3392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94aa555b-9625-411f-9c74-a5eedb768939")
-		(property "Reference" "R?"
+		(property "Reference" "R24"
 			(at 106.68 91.4399 0)
 			(effects
 				(font
@@ -3455,7 +3455,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "R?")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -3733,7 +3733,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9583f49-1acd-4f7e-ad86-faefc26a3114")
-		(property "Reference" "U?"
+		(property "Reference" "U10"
 			(at 135.4933 132.08 0)
 			(effects
 				(font
@@ -3881,7 +3881,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "U?")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -4028,7 +4028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc2b34e5-7212-4db7-968e-503ef31a98f7")
-		(property "Reference" "C?"
+		(property "Reference" "C77"
 			(at 227.33 87.6299 0)
 			(effects
 				(font
@@ -4091,7 +4091,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "C?")
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -4173,7 +4173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed58dc42-c58c-4909-885a-689725984bdf")
-		(property "Reference" "C?"
+		(property "Reference" "C78"
 			(at 227.33 116.8399 0)
 			(effects
 				(font
@@ -4236,7 +4236,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "C?")
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -4252,7 +4252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6d7e15c-8859-43ea-a9a2-acd6893b8091")
-		(property "Reference" "C?"
+		(property "Reference" "C76"
 			(at 227.33 57.1499 0)
 			(effects
 				(font
@@ -4315,7 +4315,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "C?")
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -4331,7 +4331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdbaef3a-9c99-4001-b69e-57e316118f83")
-		(property "Reference" "C?"
+		(property "Reference" "C80"
 			(at 240.03 87.6299 0)
 			(effects
 				(font
@@ -4394,7 +4394,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/b5d2488c-4141-40ec-97d6-0b993b0cde28"
-					(reference "C?")
+					(reference "C80")
 					(unit 1)
 				)
 			)

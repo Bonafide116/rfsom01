@@ -5,9 +5,576 @@
 	(uuid "2164cce5-a0af-456a-874f-c2b770d9561f")
 	(paper "A4")
 	(lib_symbols)
+	(bus
+		(pts
+			(xy 118.11 66.04) (xy 130.81 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fd851ed-5503-4166-b12e-7a63ed2e04d5")
+	)
+	(wire
+		(pts
+			(xy 118.11 73.66) (xy 130.81 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d68e2bd-03f5-4523-8696-1ba09a03d9fb")
+	)
+	(wire
+		(pts
+			(xy 182.88 93.98) (xy 171.45 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21e5193b-0478-4aad-a034-f64c1600e489")
+	)
+	(wire
+		(pts
+			(xy 182.88 104.14) (xy 171.45 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4de8d029-1f67-4ca1-ae76-178a0fd5d002")
+	)
+	(wire
+		(pts
+			(xy 182.88 71.12) (xy 171.45 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ea4ef3-66d5-4d0d-ab8c-133f5105842a")
+	)
+	(wire
+		(pts
+			(xy 182.88 78.74) (xy 171.45 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c0cd7bb-cee9-4a39-8dbb-096dfa8de4c1")
+	)
+	(wire
+		(pts
+			(xy 118.11 91.44) (xy 130.81 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73b83fac-d401-44ec-af66-dc5d5b83d68a")
+	)
+	(wire
+		(pts
+			(xy 182.88 96.52) (xy 171.45 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e5765c9-bca9-4d6d-b8ac-9c905ded43ec")
+	)
+	(wire
+		(pts
+			(xy 182.88 91.44) (xy 171.45 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83784ef5-ba86-4f3b-8121-cdc4fd8b21ea")
+	)
+	(wire
+		(pts
+			(xy 182.88 86.36) (xy 171.45 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fe0f24c-574c-43f1-9a75-03440dceca0e")
+	)
+	(wire
+		(pts
+			(xy 118.11 88.9) (xy 130.81 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c024ebf-557d-4157-be2e-b44f8731e1a6")
+	)
+	(wire
+		(pts
+			(xy 118.11 104.14) (xy 130.81 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4c70f3e-f66f-4a08-ac92-feefcee8bebb")
+	)
+	(wire
+		(pts
+			(xy 118.11 86.36) (xy 130.81 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7fad49e-9b3e-4ec8-9f3f-80b27d43753a")
+	)
+	(wire
+		(pts
+			(xy 118.11 109.22) (xy 130.81 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aefc95d3-6690-4084-895b-0deebff710f4")
+	)
+	(bus
+		(pts
+			(xy 171.45 64.77) (xy 182.88 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9e1025d-dc98-47b6-9b60-79c05acaf7b0")
+	)
+	(wire
+		(pts
+			(xy 118.11 76.2) (xy 130.81 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd79e820-8f28-4d40-8388-4e6850d03915")
+	)
+	(wire
+		(pts
+			(xy 118.11 93.98) (xy 130.81 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be4bd612-cf05-4eef-9296-c6b530c10d20")
+	)
+	(wire
+		(pts
+			(xy 118.11 71.12) (xy 130.81 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6935191-762f-4071-b8cc-c3eae36d4b97")
+	)
+	(wire
+		(pts
+			(xy 182.88 101.6) (xy 171.45 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caf9252f-94ee-411d-ae39-f21385ae013c")
+	)
+	(wire
+		(pts
+			(xy 118.11 106.68) (xy 130.81 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2761970-4571-47b4-969b-3f8ce0502591")
+	)
+	(wire
+		(pts
+			(xy 118.11 83.82) (xy 130.81 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df969034-6250-4e72-946d-7c7d336de909")
+	)
+	(wire
+		(pts
+			(xy 182.88 73.66) (xy 171.45 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e37232da-d120-4858-baab-24fc0368f57c")
+	)
+	(wire
+		(pts
+			(xy 118.11 101.6) (xy 130.81 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6cf5969-1b6d-4c7b-956a-02f56b727dc4")
+	)
+	(wire
+		(pts
+			(xy 182.88 99.06) (xy 171.45 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f04952-7b2d-4960-be89-c9cbc162f073")
+	)
+	(wire
+		(pts
+			(xy 182.88 76.2) (xy 171.45 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef05e282-7740-4406-ac3e-94734440f38c")
+	)
+	(bus
+		(pts
+			(xy 171.45 67.31) (xy 182.88 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f10eb93d-4d8b-4de7-b13e-07247163e3b0")
+	)
+	(wire
+		(pts
+			(xy 182.88 88.9) (xy 171.45 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa056577-1c16-485c-ac72-eefeee922cf7")
+	)
+	(hierarchical_label "DDR3_WE"
+		(shape input)
+		(at 118.11 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "13e56d51-9c4d-416e-8b02-c8b027189229")
+	)
+	(hierarchical_label "DDR3_BA1"
+		(shape input)
+		(at 118.11 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "29300ac7-d083-4db9-904e-a1ef0a3ecde0")
+	)
+	(hierarchical_label "DDR3_CKE"
+		(shape input)
+		(at 118.11 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2eeb6c4b-02cc-4046-bbcc-c70f2ca5d4e4")
+	)
+	(hierarchical_label "DDR3_DM0"
+		(shape output)
+		(at 182.88 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2eeff324-c8c5-429f-8529-b78adec567fe")
+	)
+	(hierarchical_label "DDR3_CK+"
+		(shape input)
+		(at 118.11 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "374f4f83-341d-4687-9c4d-9d444c336e85")
+	)
+	(hierarchical_label "DDR3_CK-"
+		(shape input)
+		(at 118.11 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3bd4ec25-299c-4b68-97ce-71b52448639b")
+	)
+	(hierarchical_label "DDR3_D[0..15]"
+		(shape bidirectional)
+		(at 182.88 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58bd455a-e718-4df1-8cdd-444b04b82789")
+	)
+	(hierarchical_label "DDR3_DN3"
+		(shape output)
+		(at 182.88 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58d3dc46-9cdb-40fa-8374-8b48d47d2038")
+	)
+	(hierarchical_label "DDR3_RST"
+		(shape input)
+		(at 118.11 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5a0d3918-b2a5-4f61-bbb7-33ce3c63cdfd")
+	)
+	(hierarchical_label "DDR3_DQS2-"
+		(shape output)
+		(at 182.88 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5acbe0e1-baef-42c4-912a-a0112fbb704e")
+	)
+	(hierarchical_label "DDR3_CAS"
+		(shape input)
+		(at 118.11 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "664bf715-7d26-48c5-b343-c71a6cd12c1a")
+	)
+	(hierarchical_label "DDR3_D[16..31]"
+		(shape bidirectional)
+		(at 182.88 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6686052e-a4bd-44b9-a7ee-1570ba6d1ad2")
+	)
+	(hierarchical_label "DDR3_DQS2+"
+		(shape output)
+		(at 182.88 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7cc355d0-8e2f-4b19-913f-c09829e9305f")
+	)
+	(hierarchical_label "DDR3_RAS"
+		(shape input)
+		(at 118.11 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "80d5ae64-e105-471d-9c34-d3a65b1e9177")
+	)
+	(hierarchical_label "DDR3_DQS1+"
+		(shape output)
+		(at 182.88 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "810795b7-ba13-445b-a566-971d4e01197b")
+	)
+	(hierarchical_label "DDR3_BA2"
+		(shape input)
+		(at 118.11 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8e2dcfbb-cc9e-4a55-94d4-3bd25cc3d748")
+	)
+	(hierarchical_label "DDR3_DQS3-"
+		(shape output)
+		(at 182.88 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8f369269-9906-40e3-b12e-2ee4b1855436")
+	)
+	(hierarchical_label "DDR3_DQS1-"
+		(shape output)
+		(at 182.88 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4b8f8f4-fb2c-41af-b745-66b9f4a171b0")
+	)
+	(hierarchical_label "DDR3_CS"
+		(shape input)
+		(at 118.11 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc800d9f-0f1c-4940-a10f-a73b13e62889")
+	)
+	(hierarchical_label "DDR3_DM2"
+		(shape output)
+		(at 182.88 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "beb15b73-65f4-4cb6-91c5-0cf1b3b0ea75")
+	)
+	(hierarchical_label "DDR3_DQS0+"
+		(shape output)
+		(at 182.88 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d200f278-101f-4443-8254-471d7b8da1f3")
+	)
+	(hierarchical_label "DDR3_DQS3+"
+		(shape output)
+		(at 182.88 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d23043c3-f5cb-43bb-832f-aa19df371125")
+	)
+	(hierarchical_label "DDR3_ODT0"
+		(shape input)
+		(at 118.11 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d5a1b4d2-89a6-49c7-a5f1-164f31ded110")
+	)
+	(hierarchical_label "DDR3_BA0"
+		(shape input)
+		(at 118.11 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e278f510-b846-40f2-9108-cf7a11028f81")
+	)
+	(hierarchical_label "DDR3_DQS0-"
+		(shape output)
+		(at 182.88 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e45beae0-b1e2-47b3-b407-428b93b5e4b2")
+	)
+	(hierarchical_label "DDR3_DM1"
+		(shape output)
+		(at 182.88 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fb737689-10a7-463d-a76b-1b5b56e24f4f")
+	)
+	(hierarchical_label "DDR3_ADDR[0..14]"
+		(shape output)
+		(at 118.11 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fbf1c6b9-1377-473e-bf99-16df65edc061")
+	)
 	(sheet
-		(at 101.6 38.1)
-		(size 12.7 12.7)
+		(at 130.81 60.96)
+		(size 40.64 68.58)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +589,7 @@
 		)
 		(uuid "a562b9f1-82d3-4f0d-aeeb-ba6ac4546394")
 		(property "Sheetname" "soc-ddr"
-			(at 101.6 37.3884 0)
+			(at 130.81 60.2484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,12 +598,282 @@
 			)
 		)
 		(property "Sheetfile" "soc-ddr.kicad_sch"
-			(at 101.6 51.3846 0)
+			(at 130.81 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "DDR3_CAS" input
+			(at 130.81 88.9 180)
+			(uuid "007b2fb3-5257-4ff9-9795-3717553bc27c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_BA1" input
+			(at 130.81 73.66 180)
+			(uuid "b378bc1e-cc7e-4488-99c5-5100f7b92175")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_BA2" input
+			(at 130.81 71.12 180)
+			(uuid "1821aa32-b8cc-48a2-aae9-ecd497c9f1ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_BA0" input
+			(at 130.81 76.2 180)
+			(uuid "bd4bd9d3-9387-4297-a349-11344ec22d6c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_CS" input
+			(at 130.81 91.44 180)
+			(uuid "eebcba53-acff-4838-9f5c-fa85f372afab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_WE" input
+			(at 130.81 93.98 180)
+			(uuid "c0e77d40-ab0e-4cae-b1f4-6c46b63e3c0e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_RAS" input
+			(at 130.81 86.36 180)
+			(uuid "6f266325-b6ec-4bfd-a0a4-66693e7be831")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_RST" input
+			(at 130.81 83.82 180)
+			(uuid "fc8b53ef-8c31-4dbc-a62d-e93c7ddc8d34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_ADDR[0..14]" output
+			(at 130.81 66.04 180)
+			(uuid "b35b1d3e-7047-4452-9cfb-f6b6ab36e367")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_CK+" input
+			(at 130.81 104.14 180)
+			(uuid "802904a8-d96b-4a01-9b8f-fee5fa4de2b6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_CKE" input
+			(at 130.81 101.6 180)
+			(uuid "6450032c-e5d7-4c7b-a257-117c1fd62e24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_CK-" input
+			(at 130.81 106.68 180)
+			(uuid "1554a42a-0368-4360-a3dc-3a30c82ebf66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_ODT0" input
+			(at 130.81 109.22 180)
+			(uuid "f3081599-40c5-429d-9620-dbb81bb53df9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DDR3_DM1" output
+			(at 171.45 76.2 0)
+			(uuid "3a12d030-20cd-4eff-af3b-4142f3dad269")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DM0" output
+			(at 171.45 78.74 0)
+			(uuid "e42f1d97-9abb-4e3d-b99f-163dbdc54abf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS0-" output
+			(at 171.45 104.14 0)
+			(uuid "23013685-717c-4749-928f-83c30fc3bb1b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS1+" output
+			(at 171.45 96.52 0)
+			(uuid "45070080-35d1-400a-b5ab-c6359b27468a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS1-" output
+			(at 171.45 99.06 0)
+			(uuid "f1bfa270-c3b3-4f82-b3b4-72639dfba985")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS0+" output
+			(at 171.45 101.6 0)
+			(uuid "361c1580-7853-4ae8-a6dd-e4af56498053")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DM2" output
+			(at 171.45 73.66 0)
+			(uuid "32754bc9-89d4-40b7-9cb0-f91b8ffc2f36")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DM3" output
+			(at 171.45 71.12 0)
+			(uuid "f4accbc0-19cc-4925-99e2-79ec87d8ba29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS3+" output
+			(at 171.45 86.36 0)
+			(uuid "826ecf73-7365-4120-ad1e-a7d3807df9e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS2-" output
+			(at 171.45 93.98 0)
+			(uuid "b2147b72-4eec-4b09-bd01-e94747fbf3e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS3-" output
+			(at 171.45 88.9 0)
+			(uuid "7207316b-3fdb-4c05-b624-b0262b241e96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_DQS2+" output
+			(at 171.45 91.44 0)
+			(uuid "44888741-fb06-4420-82be-1241d6216111")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_D[0..15]" bidirectional
+			(at 171.45 64.77 0)
+			(uuid "8dfd0e69-ce0c-4ac2-828a-4a90eb039e38")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DDR3_D[16..31]" bidirectional
+			(at 171.45 67.31 0)
+			(uuid "4e9d4990-363b-4fac-8745-c3a3edd30db3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
