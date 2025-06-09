@@ -430,7 +430,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -630,10 +630,6 @@
       "eth-phy"
     ],
     [
-      "23700576-2703-4a6e-b531-ab5c539c1fc6",
-      "emmc"
-    ],
-    [
       "aa769d64-0dd0-48a6-88b3-65c6d6ecbe65",
       "mezzanine"
     ],
@@ -656,6 +652,10 @@
     [
       "b5d2488c-4141-40ec-97d6-0b993b0cde28",
       "mcu"
+    ],
+    [
+      "4d7f49bd-4dee-440f-a610-851ca079b0e2",
+      "ftdi"
     ]
   ],
   "text_variables": {}

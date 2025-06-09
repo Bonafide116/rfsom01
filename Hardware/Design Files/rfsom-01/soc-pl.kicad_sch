@@ -6854,6 +6854,126 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 151.13 46.99) (xy 135.89 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20be9e9b-72d1-4f1b-b89d-b8ee6b98ef2d")
+	)
+	(wire
+		(pts
+			(xy 151.13 113.03) (xy 135.89 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24e787eb-a617-481a-b99c-4cda2985b3b9")
+	)
+	(wire
+		(pts
+			(xy 151.13 44.45) (xy 135.89 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fd63661-687b-44a9-a02d-15b5cd465d2e")
+	)
+	(wire
+		(pts
+			(xy 151.13 41.91) (xy 135.89 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ec35651-312b-480e-bb47-063bd71b8bcd")
+	)
+	(wire
+		(pts
+			(xy 151.13 110.49) (xy 135.89 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3e627fa-4100-469e-988c-243a1b46e4c1")
+	)
+	(wire
+		(pts
+			(xy 151.13 39.37) (xy 135.89 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b804a80a-d414-4eee-b3cf-cab51bc4240e")
+	)
+	(label "AD12-"
+		(at 151.13 113.03 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3a05ce34-d680-4d4d-a0fd-5f43e04f4c9b")
+	)
+	(label "AD8+"
+		(at 151.13 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "646f245b-86d2-4437-a34c-0915902cf8e2")
+	)
+	(label "AD0+"
+		(at 151.13 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "853ef441-f31c-4e5f-ae06-f0ae01344ef6")
+	)
+	(label "AD12+"
+		(at 151.13 110.49 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a94d2a38-9986-4a34-8533-ea6ff9e9f9fc")
+	)
+	(label "AD0-"
+		(at 151.13 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c1cf8a3f-8702-4eaa-bd96-3bfca36fbc6b")
+	)
+	(label "AD8-"
+		(at 151.13 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e88843f9-bedc-4364-9015-9262c787bb08")
+	)
 	(symbol
 		(lib_id "ICs:XC7Z010-1CLG400C")
 		(at 64.77 33.02 0)
