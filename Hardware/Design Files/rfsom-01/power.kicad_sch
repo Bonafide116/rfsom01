@@ -6208,7 +6208,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1da707cf-e333-47cb-8fe5-35d24d6ebb8c")
-		(property "Reference" "L?"
+		(property "Reference" "L3"
 			(at 213.36 76.2 0)
 			(effects
 				(font
@@ -6277,7 +6277,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "L?")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -6293,7 +6293,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e2ae8b5-c066-4ff5-811a-4d9e5133d542")
-		(property "Reference" "R?"
+		(property "Reference" "R10"
 			(at 226.06 68.58 90)
 			(effects
 				(font
@@ -6310,7 +6310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 219.71 74.93 0)
 			(effects
 				(font
@@ -6354,7 +6354,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "R?")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -6454,7 +6454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 111.76 181.61 0)
 			(effects
 				(font
@@ -6580,7 +6580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31ce28f1-0616-411c-8e3d-09077dfa63e6")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 53.34 68.58 0)
 			(effects
 				(font
@@ -6647,7 +6647,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "U?")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -6956,7 +6956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 135.89 105.41 0)
 			(effects
 				(font
@@ -7165,7 +7165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 144.78 191.77 0)
 			(effects
 				(font
@@ -7502,7 +7502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5998e390-9cd9-4094-8157-8e9e319c6c82")
-		(property "Reference" "R?"
+		(property "Reference" "R12"
 			(at 226.06 99.06 90)
 			(effects
 				(font
@@ -7519,7 +7519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 219.71 105.41 0)
 			(effects
 				(font
@@ -7563,7 +7563,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "R?")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -7597,7 +7597,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 25.4 72.39 0)
 			(effects
 				(font
@@ -8303,7 +8303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 154.94 64.77 0)
 			(effects
 				(font
@@ -8382,7 +8382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 152.4 80.01 0)
 			(effects
 				(font
@@ -8509,7 +8509,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8ffe1233-c999-46ce-a023-d8e4869dbde4")
-		(property "Reference" "L?"
+		(property "Reference" "L2"
 			(at 213.36 60.96 0)
 			(effects
 				(font
@@ -8578,7 +8578,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "L?")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -8806,7 +8806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 26.67 168.91 0)
 			(effects
 				(font
@@ -8866,7 +8866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e73704d-75d9-43f4-88d1-68e07c0ab64d")
-		(property "Reference" "R?"
+		(property "Reference" "R9"
 			(at 226.06 53.34 90)
 			(effects
 				(font
@@ -8883,7 +8883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 219.71 59.69 0)
 			(effects
 				(font
@@ -8927,7 +8927,7 @@
 		(instances
 			(project ""
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "R?")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8960,7 +8960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 36.83 176.53 0)
 			(effects
 				(font
@@ -9295,7 +9295,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b64c2e50-0c44-42bc-a427-2f3c78d18d3c")
-		(property "Reference" "L?"
+		(property "Reference" "L5"
 			(at 213.36 106.68 0)
 			(effects
 				(font
@@ -9364,7 +9364,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "L?")
+					(reference "L5")
 					(unit 1)
 				)
 			)
@@ -9750,7 +9750,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca75ae5c-9a9b-40bd-a920-056c34d878bb")
-		(property "Reference" "L?"
+		(property "Reference" "L1"
 			(at 69.85 72.39 0)
 			(effects
 				(font
@@ -9819,7 +9819,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "L?")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -9919,7 +9919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 154.94 87.63 0)
 			(effects
 				(font
@@ -9980,7 +9980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d42628be-671f-4a9f-b016-63e25517fddf")
-		(property "Reference" "R?"
+		(property "Reference" "R11"
 			(at 226.06 83.82 90)
 			(effects
 				(font
@@ -9997,7 +9997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 219.71 90.17 0)
 			(effects
 				(font
@@ -10041,7 +10041,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "R?")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -10286,7 +10286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 124.46 105.41 0)
 			(effects
 				(font
@@ -10492,7 +10492,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e51fa920-4c6b-41ba-ae71-a083145b11c3")
-		(property "Reference" "L?"
+		(property "Reference" "L4"
 			(at 213.36 91.44 0)
 			(effects
 				(font
@@ -10561,7 +10561,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "L?")
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -10710,7 +10710,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef6412c8-0895-49cb-b29d-b05f61fc55f9")
-		(property "Reference" "R?"
+		(property "Reference" "R8"
 			(at 73.66 90.1699 0)
 			(effects
 				(font
@@ -10728,7 +10728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 71.12 97.79 0)
 			(effects
 				(font
@@ -10773,7 +10773,7 @@
 		(instances
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/8350ef0f-c5e8-4551-b021-24222e56f4d9"
-					(reference "R?")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -10872,7 +10872,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 152.4 57.15 0)
 			(effects
 				(font
