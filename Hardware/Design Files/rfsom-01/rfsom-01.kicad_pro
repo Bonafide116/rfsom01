@@ -615,6 +615,195 @@
       ],
       "/soc/soc-ddr/DDR3_ADDR[0..14]": [
         "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR0": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR1": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR10": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR11": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR12": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR13": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR14": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR2": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR3": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR4": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR5": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR6": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR7": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR8": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR9": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/DDR3_ADDR[0..14]": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR0": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR1": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR10": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR11": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR12": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR13": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR14": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR2": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR3": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR4": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR5": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR6": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR7": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR8": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR9": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-pl/ram-pl/DDR_ADDR[0..14]": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A0": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A1": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A10": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A11": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A12": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A13": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A14": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A2": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A3": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A4": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A5": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A6": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A7": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A8": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_A9": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR0": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR1": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR10": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR11": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR12": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR13": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR14": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR2": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR3": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR4": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR5": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR6": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR7": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR8": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR9": [
+        "NC_DDR_ADDR"
+      ],
+      "/soc/soc-ram/DDR3_ADDR[0..14]": [
+        "NC_DDR_ADDR"
       ]
     },
     "netclass_patterns": [
@@ -765,32 +954,16 @@
       "power"
     ],
     [
-      "e85ee5d6-a507-44b5-8cb5-e5f6bbea6839",
-      "eth-phy"
+      "b5d2488c-4141-40ec-97d6-0b993b0cde28",
+      "mcu"
     ],
     [
       "5824b29f-0639-4332-9093-651d63d89232",
       "soc"
     ],
     [
-      "aa769d64-0dd0-48a6-88b3-65c6d6ecbe65",
-      "mezzanine"
-    ],
-    [
-      "b5d2488c-4141-40ec-97d6-0b993b0cde28",
-      "mcu"
-    ],
-    [
-      "4d7f49bd-4dee-440f-a610-851ca079b0e2",
-      "ftdi"
-    ],
-    [
       "ba78d23a-f291-4753-aec8-907958fe5fd2",
       "soc-power"
-    ],
-    [
-      "dcd4ebf5-9bf5-4a13-8e67-04058a43970d",
-      "soc-pl"
     ],
     [
       "d7dfbf37-049c-4b0f-b140-35f2ecd586ab",
@@ -798,11 +971,43 @@
     ],
     [
       "a562b9f1-82d3-4f0d-aeeb-ba6ac4546394",
-      "soc-ddr"
+      "soc-ram"
+    ],
+    [
+      "dcd4ebf5-9bf5-4a13-8e67-04058a43970d",
+      "soc-pl"
+    ],
+    [
+      "fd8b3978-e5de-446f-a3a4-e7f29973617d",
+      "ram-ps_b2"
     ],
     [
       "178b5612-e377-4e32-872d-1fc06b963841",
-      "ram"
+      "ram-ps_b1"
+    ],
+    [
+      "b9a17907-8b82-4b81-8382-1e79723c135d",
+      "ram-pl"
+    ],
+    [
+      "c75f3f86-302c-4c50-a65c-1fc9e403f136",
+      "storage"
+    ],
+    [
+      "e85ee5d6-a507-44b5-8cb5-e5f6bbea6839",
+      "eth-phy"
+    ],
+    [
+      "aa769d64-0dd0-48a6-88b3-65c6d6ecbe65",
+      "mezzanine"
+    ],
+    [
+      "4d7f49bd-4dee-440f-a610-851ca079b0e2",
+      "ftdi"
+    ],
+    [
+      "f589e73c-86d1-4c53-a833-568491fb153e",
+      "usb"
     ]
   ],
   "text_variables": {}
