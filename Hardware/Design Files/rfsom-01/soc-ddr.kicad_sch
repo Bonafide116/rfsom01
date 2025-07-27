@@ -7943,6 +7943,146 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Resistors:RC0402FR-0749R9L"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RES_01"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Resistance" "49.9R"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RC0402FR-0749R9L_0_1"
+				(rectangle
+					(start -1.016 -2.032)
+					(end 1.016 -5.715)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -6.35) (xy 0 -5.715)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RC0402FR-0749R9L_1_1"
+				(pin passive line
+					(at 0 0 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Resistors:RC0402FR-074K7L"
 			(pin_numbers
 				(hide yes)
@@ -8184,146 +8324,6 @@
 				)
 			)
 			(symbol "RC0402FR-0780R6L_1_1"
-				(pin passive line
-					(at 0 0 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Resistors:RC0603FR-0749R9L"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "RC0603FR-0749R9L"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Resistance" "49.9R"
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "RC0603FR-0749R9L_0_1"
-				(rectangle
-					(start -1.016 -2.032)
-					(end 1.016 -5.715)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -6.35) (xy 0 -5.715)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RC0603FR-0749R9L_1_1"
 				(pin passive line
 					(at 0 0 270)
 					(length 1.27)
@@ -9700,6 +9700,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 81.28) (xy 259.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ccaf8fd-4891-45aa-accd-70beaf9d7110")
+	)
+	(wire
+		(pts
 			(xy 259.08 83.82) (xy 241.3 83.82)
 		)
 		(stroke
@@ -10833,6 +10843,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 76.2) (xy 259.08 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "628b3609-92e1-44c3-8303-397ff8eb3abf")
+	)
+	(wire
+		(pts
 			(xy 13.97 137.16) (xy 85.09 137.16)
 		)
 		(stroke
@@ -11756,16 +11776,6 @@
 			(type default)
 		)
 		(uuid "a4cb9f47-7277-41f2-ad12-a56a46f6f7cf")
-	)
-	(wire
-		(pts
-			(xy 259.08 76.2) (xy 241.3 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a52b5a45-0ef1-402e-a48a-3a3ca24e8b81")
 	)
 	(bus
 		(pts
@@ -12709,16 +12719,6 @@
 		)
 		(uuid "e282c8b8-3c39-4922-ac7b-42194be3f8c7")
 	)
-	(wire
-		(pts
-			(xy 259.08 81.28) (xy 241.3 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2acecf5-94e3-4c87-b6a8-4a7fae7a4445")
-	)
 	(bus
 		(pts
 			(xy 21.59 76.2) (xy 40.64 76.2)
@@ -13179,16 +13179,6 @@
 		)
 		(uuid "ffff0947-b5d3-494e-b616-9af880328bf7")
 	)
-	(label "DDR3_D14"
-		(at 259.08 78.74 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "006f5d49-1009-41e3-a3d2-9b06f87c5691")
-	)
 	(label "DDR3_D[0..15]"
 		(at 21.59 55.88 0)
 		(effects
@@ -13240,7 +13230,7 @@
 		(uuid "073c9e26-cec9-4d75-9534-98fc4ce1445f")
 	)
 	(label "DDR3_D3"
-		(at 259.08 106.68 180)
+		(at 259.08 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13290,7 +13280,7 @@
 		(uuid "14b63e8b-216b-4b1f-ada3-f1bd9692f342")
 	)
 	(label "DDR3_D28"
-		(at 259.08 43.18 180)
+		(at 259.08 40.64 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13350,7 +13340,7 @@
 		(uuid "1d9c4a6e-9d8a-417e-9eb3-53ef0f3e9ae6")
 	)
 	(label "DDR3_D26"
-		(at 259.08 48.26 180)
+		(at 259.08 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13421,18 +13411,8 @@
 			)
 		)
 	)
-	(label "DDR3_D10"
-		(at 259.08 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "29c137ee-0b1b-4606-8acf-36371e2b7ad4")
-	)
 	(label "DDR3_D1"
-		(at 259.08 111.76 180)
+		(at 259.08 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13483,16 +13463,6 @@
 			)
 		)
 	)
-	(label "DDR3_D8"
-		(at 259.08 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "307a58c6-e729-4edf-a21c-5ec347a86b52")
-	)
 	(label "DDR3_ADDR6"
 		(at 13.97 154.94 0)
 		(effects
@@ -13524,7 +13494,7 @@
 		(uuid "3316a0a2-ef67-440e-8d84-1e6e00d8411f")
 	)
 	(label "DDR3_D6"
-		(at 259.08 99.06 180)
+		(at 259.08 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13614,7 +13584,7 @@
 		(uuid "3b8f3b0a-fee0-45f9-b6de-8ee8c03bf451")
 	)
 	(label "DDR3_D5"
-		(at 259.08 101.6 180)
+		(at 259.08 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13644,7 +13614,7 @@
 		(uuid "3e67b752-997a-40ae-acc1-c8ec0096f1c2")
 	)
 	(label "DDR3_D31"
-		(at 259.08 35.56 180)
+		(at 259.08 38.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13676,7 +13646,7 @@
 		)
 	)
 	(label "DDR3_D30"
-		(at 259.08 38.1 180)
+		(at 259.08 43.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13745,6 +13715,16 @@
 		)
 		(uuid "46d07969-c04e-43b6-8553-1935fcb7b7f5")
 	)
+	(label "DDR3_D15"
+		(at 259.08 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4789d017-1dca-42c0-addc-6d32bf40a925")
+	)
 	(label "DDR3_CK+"
 		(at 72.39 33.02 0)
 		(effects
@@ -13754,6 +13734,16 @@
 			(justify left bottom)
 		)
 		(uuid "4856d898-f9bc-4ac0-b1e4-2f293f9f1e66")
+	)
+	(label "DDR3_D8"
+		(at 259.08 81.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4b84917b-b3c6-4d1e-aa9f-90b9ee5fb34b")
 	)
 	(label "DDR3_ODT0"
 		(at 13.97 193.04 0)
@@ -13786,7 +13776,7 @@
 		(uuid "51a5af43-9da7-431d-a530-24bf3f6651d2")
 	)
 	(label "DDR3_D18"
-		(at 259.08 68.58 180)
+		(at 259.08 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13941,16 +13931,6 @@
 			)
 		)
 	)
-	(label "DDR3_D15"
-		(at 259.08 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "68644ebf-405d-4678-a232-22a12344de71")
-	)
 	(label "DDR3_ADDR5"
 		(at 167.64 68.58 180)
 		(effects
@@ -13992,7 +13972,7 @@
 		(uuid "70cdb535-235f-462d-9da4-979413bcc97c")
 	)
 	(label "DDR3_D24"
-		(at 259.08 53.34 180)
+		(at 259.08 50.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14020,6 +14000,16 @@
 			(justify right bottom)
 		)
 		(uuid "72e29f40-c79e-4250-958f-972c0820d833")
+	)
+	(label "DDR3_D11"
+		(at 259.08 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7691b10e-e85f-44d9-b790-6b7719d9c03c")
 	)
 	(label "DDR3_DQS3-"
 		(at 72.39 69.85 0)
@@ -14144,7 +14134,7 @@
 		(uuid "851f6d5e-1c9b-4bd5-aaf8-a95f4c1d0fea")
 	)
 	(label "DDR3_D4"
-		(at 259.08 104.14 180)
+		(at 259.08 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14152,16 +14142,6 @@
 			(justify right bottom)
 		)
 		(uuid "860c8e7e-5d52-4b39-b1c9-de82bcf1d793")
-	)
-	(label "DDR3_D11"
-		(at 259.08 86.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "86101703-b388-45e0-8308-2cfb92a37667")
 	)
 	(label "DDR3_D[16..31]"
 		(at 281.94 33.02 180)
@@ -14192,16 +14172,6 @@
 			(justify left bottom)
 		)
 		(uuid "8cca8c65-8059-48ce-941e-f0c76d48a9f7")
-	)
-	(label "DDR3_D9"
-		(at 259.08 91.44 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8d07dd82-a6e1-41e5-92a9-77e2172e09d6")
 	)
 	(label "DDR3_DM1"
 		(at 259.08 124.46 180)
@@ -14264,7 +14234,7 @@
 		(uuid "9873fe3d-7cfa-449b-be06-ae15985d8ab7")
 	)
 	(label "DDR3_D22"
-		(at 259.08 58.42 180)
+		(at 259.08 68.58 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14306,7 +14276,7 @@
 		)
 	)
 	(label "DDR3_D19"
-		(at 259.08 66.04 180)
+		(at 259.08 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14315,8 +14285,18 @@
 		)
 		(uuid "a225fe67-9b51-474e-b50c-56c2e088fbe5")
 	)
+	(label "DDR3_D9"
+		(at 259.08 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a31078e4-2061-4bc9-9204-6f7e59d0bc14")
+	)
 	(label "DDR3_D20"
-		(at 259.08 63.5 180)
+		(at 259.08 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14326,7 +14306,7 @@
 		(uuid "a53a753b-c3a2-4e86-888a-3cb3da977fbc")
 	)
 	(label "DDR3_D0"
-		(at 259.08 114.3 180)
+		(at 259.08 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14514,7 +14494,7 @@
 		(uuid "bdef30cd-9203-4d62-abb9-19edc29877c4")
 	)
 	(label "DDR3_D29"
-		(at 259.08 40.64 180)
+		(at 259.08 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14544,7 +14524,7 @@
 		(uuid "c4a2a891-6679-44e6-84cc-8f35b08b53ec")
 	)
 	(label "DDR3_D25"
-		(at 259.08 50.8 180)
+		(at 259.08 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14574,7 +14554,7 @@
 		(uuid "c7d39ab5-00c4-4552-a064-c285409e5479")
 	)
 	(label "DDR3_D27"
-		(at 259.08 45.72 180)
+		(at 259.08 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14645,6 +14625,16 @@
 		)
 		(uuid "cda7d09b-cbe9-479a-bcdc-e2c454ceb7c3")
 	)
+	(label "DDR3_D13"
+		(at 259.08 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cfaeaf45-43a8-49d5-90c4-ab046bf3b69b")
+	)
 	(label "DDR3_nWE"
 		(at 21.59 50.8 0)
 		(effects
@@ -14685,8 +14675,18 @@
 		)
 		(uuid "d60524a5-8116-4a9f-8165-5338f7b2bae1")
 	)
+	(label "DDR3_D10"
+		(at 259.08 76.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d81d0f87-81b2-40b2-9802-dca8b9fa653b")
+	)
 	(label "DDR3_D23"
-		(at 259.08 55.88 180)
+		(at 259.08 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14705,16 +14705,6 @@
 		)
 		(uuid "d96d046b-4fed-45be-be35-293ff6c9b8df")
 	)
-	(label "DDR3_D13"
-		(at 259.08 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "dbc65580-295c-447f-9858-82721abddd2e")
-	)
 	(label "DDR3_D[0..15]"
 		(at 280.67 73.66 180)
 		(effects
@@ -14726,7 +14716,7 @@
 		(uuid "dc4218dc-66fb-4529-b641-e0ba56e0f13c")
 	)
 	(label "DDR3_D16"
-		(at 259.08 73.66 180)
+		(at 259.08 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14736,7 +14726,7 @@
 		(uuid "e083822d-0c56-43bf-93fc-3c6f31ade6d4")
 	)
 	(label "DDR3_D17"
-		(at 259.08 71.12 180)
+		(at 259.08 58.42 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14745,8 +14735,18 @@
 		)
 		(uuid "e2649ef2-2e90-40d6-80ad-73cabc5028c5")
 	)
+	(label "DDR3_D14"
+		(at 259.08 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ea68ab5e-fd6a-4ba4-a44b-44463425f7d3")
+	)
 	(label "DDR3_D7"
-		(at 259.08 96.52 180)
+		(at 259.08 104.14 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14997,7 +14997,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 53.34 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15022,7 +15022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 53.34 0)
 			(effects
 				(font
@@ -15040,7 +15040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 53.34 0)
 			(effects
 				(font
@@ -15073,7 +15073,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15098,7 +15098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 81.28 0)
 			(effects
 				(font
@@ -15116,7 +15116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 81.28 0)
 			(effects
 				(font
@@ -15149,7 +15149,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15174,7 +15174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 48.26 0)
 			(effects
 				(font
@@ -15192,7 +15192,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 48.26 0)
 			(effects
 				(font
@@ -15225,7 +15225,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15250,7 +15250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 71.12 0)
 			(effects
 				(font
@@ -15268,7 +15268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 71.12 0)
 			(effects
 				(font
@@ -15456,7 +15456,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15481,7 +15481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 66.04 0)
 			(effects
 				(font
@@ -15499,7 +15499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 66.04 0)
 			(effects
 				(font
@@ -16285,7 +16285,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 68.58 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16310,7 +16310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 68.58 0)
 			(effects
 				(font
@@ -16328,7 +16328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 68.58 0)
 			(effects
 				(font
@@ -16959,7 +16959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16984,7 +16984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 76.2 0)
 			(effects
 				(font
@@ -17002,7 +17002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 76.2 0)
 			(effects
 				(font
@@ -17256,7 +17256,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 109.22 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17281,7 +17281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 109.22 0)
 			(effects
 				(font
@@ -17299,7 +17299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 109.22 0)
 			(effects
 				(font
@@ -17632,7 +17632,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 91.44 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17657,7 +17657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 91.44 0)
 			(effects
 				(font
@@ -17675,7 +17675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 91.44 0)
 			(effects
 				(font
@@ -19279,7 +19279,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19304,7 +19304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 60.96 0)
 			(effects
 				(font
@@ -19322,7 +19322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 60.96 0)
 			(effects
 				(font
@@ -19355,7 +19355,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19380,7 +19380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 50.8 0)
 			(effects
 				(font
@@ -19398,7 +19398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 50.8 0)
 			(effects
 				(font
@@ -19587,7 +19587,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19612,7 +19612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 104.14 0)
 			(effects
 				(font
@@ -19630,7 +19630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 104.14 0)
 			(effects
 				(font
@@ -19819,7 +19819,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 119.38 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19828,7 +19828,7 @@
 		(dnp no)
 		(uuid "c30e25d7-14e1-499c-b8e8-dfa7d7ea2866")
 		(property "Reference" "R117"
-			(at 188.722 120.396 90)
+			(at 188.722 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19844,7 +19844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 119.38 0)
 			(effects
 				(font
@@ -19862,7 +19862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 119.38 0)
 			(effects
 				(font
@@ -20039,7 +20039,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20064,7 +20064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 45.72 0)
 			(effects
 				(font
@@ -20082,7 +20082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 45.72 0)
 			(effects
 				(font
@@ -20115,7 +20115,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20140,7 +20140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 93.98 0)
 			(effects
 				(font
@@ -20158,7 +20158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 93.98 0)
 			(effects
 				(font
@@ -20191,7 +20191,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20216,7 +20216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 58.42 0)
 			(effects
 				(font
@@ -20234,7 +20234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 58.42 0)
 			(effects
 				(font
@@ -20343,7 +20343,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20368,7 +20368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 55.88 0)
 			(effects
 				(font
@@ -20386,7 +20386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 55.88 0)
 			(effects
 				(font
@@ -20655,7 +20655,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20680,7 +20680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 78.74 0)
 			(effects
 				(font
@@ -20698,7 +20698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 78.74 0)
 			(effects
 				(font
@@ -20731,7 +20731,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20740,7 +20740,7 @@
 		(dnp no)
 		(uuid "f09f873c-5700-46f6-9020-2a41cfa84604")
 		(property "Reference" "R118"
-			(at 187.706 132.08 90)
+			(at 188.722 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20756,7 +20756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 133.35 0)
 			(effects
 				(font
@@ -20774,7 +20774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 133.35 0)
 			(effects
 				(font
@@ -20784,7 +20784,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 172.72 133.35 0)
+			(at 188.976 132.334 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20807,7 +20807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 106.68 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20832,7 +20832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 106.68 0)
 			(effects
 				(font
@@ -20850,7 +20850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 106.68 0)
 			(effects
 				(font
@@ -20959,7 +20959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -20984,7 +20984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 111.76 0)
 			(effects
 				(font
@@ -21002,7 +21002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 111.76 0)
 			(effects
 				(font
@@ -21181,7 +21181,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 63.5 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21206,7 +21206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 63.5 0)
 			(effects
 				(font
@@ -21224,7 +21224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 63.5 0)
 			(effects
 				(font
@@ -21257,7 +21257,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 180.34 88.9 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21282,7 +21282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 177.8 88.9 0)
 			(effects
 				(font
@@ -21300,7 +21300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 180.34 88.9 0)
 			(effects
 				(font
@@ -21487,7 +21487,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 170.18 73.66 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21512,7 +21512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 167.64 73.66 0)
 			(effects
 				(font
@@ -21530,7 +21530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 170.18 73.66 0)
 			(effects
 				(font

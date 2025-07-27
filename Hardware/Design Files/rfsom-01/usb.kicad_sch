@@ -157,6 +157,158 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Capacitors:CL10C060DB8NNNC"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CL10C060DB8NNNC"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAP CER 6PF 50V C0G/NP0 0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Capacitance" "6pF"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CL10C060DB8NNNC_0_1"
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -3.175)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -6.35) (xy 0 -4.445)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 -3.175) (xy -1.905 -3.175)
+					)
+					(stroke
+						(width 0.381)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 -4.445) (xy -1.905 -4.445)
+					)
+					(stroke
+						(width 0.381)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CL10C060DB8NNNC_1_1"
+				(pin passive line
+					(at 0 0 270)
+					(length 1.27)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 90)
+					(length 1.27)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ICs:USB3320C-EZK"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2031,6 +2183,12 @@
 		(uuid "6d9e32be-9ac6-45c1-8b73-8b099450e5ce")
 	)
 	(junction
+		(at 236.22 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7181f191-195a-44a6-a3ba-cc6a416ebd3f")
+	)
+	(junction
 		(at 125.73 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2047,6 +2205,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f209b1d2-e4ed-4fde-8232-e2057c4d9055")
+	)
+	(junction
+		(at 236.22 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f65b8b2c-5d85-4d4a-87d6-75c41c9daac2")
 	)
 	(no_connect
 		(at 137.16 74.93)
@@ -2079,6 +2243,16 @@
 			(type default)
 		)
 		(uuid "05372e14-e51c-49fd-a3ab-ea312fbe5d1a")
+	)
+	(wire
+		(pts
+			(xy 236.22 85.09) (xy 247.65 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06906101-8c77-4ea4-b9ae-a1114dee63eb")
 	)
 	(wire
 		(pts
@@ -2252,6 +2426,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 85.09) (xy 257.81 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41545940-cf73-4642-acb0-86d3a9c6b85a")
+	)
+	(wire
+		(pts
 			(xy 130.81 92.71) (xy 130.81 96.52)
 		)
 		(stroke
@@ -2309,6 +2493,16 @@
 			(type default)
 		)
 		(uuid "520cbc89-0ca7-4b96-b265-9529b1cf9354")
+	)
+	(wire
+		(pts
+			(xy 255.27 74.93) (xy 257.81 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "575758f6-bbd7-4afb-82be-797278866a14")
 	)
 	(wire
 		(pts
@@ -2569,6 +2763,16 @@
 			(type default)
 		)
 		(uuid "c41fc2c0-55da-4536-8594-1f488e5e2c73")
+	)
+	(wire
+		(pts
+			(xy 236.22 74.93) (xy 247.65 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4d1b165-b785-45b2-a034-32ab5d3dca8b")
 	)
 	(wire
 		(pts
@@ -3293,6 +3497,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Capacitors:CL10C060DB8NNNC")
+		(at 247.65 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ff753ab-f3eb-40a3-a7d2-e6efbf3ef177")
+		(property "Reference" "C210"
+			(at 251.46 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL10C060DB8NNNC"
+			(at 242.57 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 245.11 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 6PF 50V C0G/NP0 0603"
+			(at 247.65 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Capacitance" "6pF"
+			(at 251.46 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c4f1f298-6470-4547-900d-2de0b5b622b2")
+		)
+		(pin "2"
+			(uuid "899d4b19-b26a-4b13-a5b2-3c83ff488732")
+		)
+		(instances
+			(project "rfsom-01"
+				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/5824b29f-0639-4332-9093-651d63d89232/f589e73c-86d1-4c53-a833-568491fb153e"
+					(reference "C210")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 227.33 90.17 0)
 		(unit 1)
@@ -4011,6 +4292,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 257.81 85.09 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a35dea9f-d271-4101-9a64-43d23abebcc0")
+		(property "Reference" "#PWR0312"
+			(at 264.16 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 262.89 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 257.81 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b2969cbf-ddbd-4789-b1bd-daa332e6a368")
+		)
+		(instances
+			(project "rfsom-01"
+				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/5824b29f-0639-4332-9093-651d63d89232/f589e73c-86d1-4c53-a833-568491fb153e"
+					(reference "#PWR0312")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 130.81 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4297,6 +4644,149 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 257.81 74.93 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2f56e1b-1644-4e1b-9ec9-13af7c0769ef")
+		(property "Reference" "#PWR0311"
+			(at 264.16 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 262.89 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 257.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c81717c9-53cc-4583-a8d7-e4c3191c6753")
+		)
+		(instances
+			(project "rfsom-01"
+				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/5824b29f-0639-4332-9093-651d63d89232/f589e73c-86d1-4c53-a833-568491fb153e"
+					(reference "#PWR0311")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Capacitors:CL10C060DB8NNNC")
+		(at 247.65 85.09 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da179e0b-f83d-4564-8fe4-e8b1e5ba06cc")
+		(property "Reference" "C211"
+			(at 251.46 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL10C060DB8NNNC"
+			(at 242.57 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 245.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 6PF 50V C0G/NP0 0603"
+			(at 247.65 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Capacitance" "6pF"
+			(at 251.46 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0d1781c0-72de-4871-be22-ef493be63353")
+		)
+		(pin "2"
+			(uuid "220ad846-fb18-4a02-8d9c-5d9ce9fea8e9")
+		)
+		(instances
+			(project "rfsom-01"
+				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/5824b29f-0639-4332-9093-651d63d89232/f589e73c-86d1-4c53-a833-568491fb153e"
+					(reference "C211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Resistors:RC0402FR-07100RL")
 		(at 203.2 82.55 90)
 		(unit 1)
@@ -4380,10 +4870,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e0201f19-4be1-4000-84b3-66e8c91ec026")
 		(property "Reference" "Y4"
-			(at 255.27 72.5168 90)
+			(at 235.204 67.818 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4391,7 +4880,7 @@
 			)
 		)
 		(property "Value" "ECS-240-12-37B-CKY-TR"
-			(at 255.27 75.0568 90)
+			(at 235.204 70.358 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4426,7 +4915,7 @@
 			)
 		)
 		(property "Frequency" "24MHz"
-			(at 255.27 77.5968 90)
+			(at 235.204 72.898 90)
 			(effects
 				(font
 					(size 1.27 1.27)

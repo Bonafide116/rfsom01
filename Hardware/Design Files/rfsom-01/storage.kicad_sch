@@ -4175,7 +4175,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Resistors:RC0402FR-0722RL"
+		(symbol "Resistors:RC0402FR-0749R9L"
 			(pin_numbers
 				(hide yes)
 			)
@@ -4194,7 +4194,7 @@
 					)
 				)
 			)
-			(property "Value" "RC0402FR-0722RL"
+			(property "Value" "RES_01"
 				(at 0 5.08 0)
 				(effects
 					(font
@@ -4203,8 +4203,8 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-				(at 0 0 0)
+			(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+				(at 0 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4221,8 +4221,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "RES 22 OHM 1% 1/16W 0402"
-				(at 0 2.54 0)
+			(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4230,7 +4230,7 @@
 					(hide yes)
 				)
 			)
-			(property "Resistance" "22R"
+			(property "Resistance" "49.9R"
 				(at 0 7.62 0)
 				(effects
 					(font
@@ -4238,7 +4238,7 @@
 					)
 				)
 			)
-			(symbol "RC0402FR-0722RL_0_1"
+			(symbol "RC0402FR-0749R9L_0_1"
 				(rectangle
 					(start -1.016 -2.032)
 					(end 1.016 -5.715)
@@ -4275,7 +4275,7 @@
 					)
 				)
 			)
-			(symbol "RC0402FR-0722RL_1_1"
+			(symbol "RC0402FR-0749R9L_1_1"
 				(pin passive line
 					(at 0 0 270)
 					(length 1.27)
@@ -4556,146 +4556,6 @@
 				)
 			)
 			(symbol "RC0603FR-0747K5L_1_1"
-				(pin passive line
-					(at 0 0 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Resistors:RC0603FR-0749R9L"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "RC0603FR-0749R9L"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Resistance" "49.9R"
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "RC0603FR-0749R9L_0_1"
-				(rectangle
-					(start -1.016 -2.032)
-					(end 1.016 -5.715)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -6.35) (xy 0 -5.715)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "RC0603FR-0749R9L_1_1"
 				(pin passive line
 					(at 0 0 270)
 					(length 1.27)
@@ -6787,7 +6647,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0402FR-0722RL")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 105.41 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6812,8 +6672,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 105.41 82.55 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 102.87 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6830,8 +6690,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 22 OHM 1% 1/16W 0402"
-			(at 102.87 82.55 0)
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
+			(at 105.41 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6839,8 +6699,8 @@
 				(hide yes)
 			)
 		)
-		(property "Resistance" "22R"
-			(at 105.156 84.074 90)
+		(property "Resistance" "49.9R"
+			(at 97.79 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8738,7 +8598,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Resistors:RC0603FR-0749R9L")
+		(lib_id "Resistors:RC0402FR-0749R9L")
 		(at 121.92 160.02 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8764,7 +8624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 119.38 160.02 0)
 			(effects
 				(font
@@ -8782,7 +8642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 49.9 OHM 1% 1/10W 0603"
+		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
 			(at 121.92 160.02 0)
 			(effects
 				(font

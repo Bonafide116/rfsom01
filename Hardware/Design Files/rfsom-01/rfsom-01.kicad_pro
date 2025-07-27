@@ -489,20 +489,44 @@
       {
         "name": "NC_DDR_ADDR",
         "pcb_color": "rgb(0, 0, 255)",
-        "priority": 2,
+        "priority": 6,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1778
       },
       {
+        "name": "NC_DDR_DAT-B0",
+        "pcb_color": "rgb(255, 255, 0)",
+        "priority": 3,
+        "schematic_color": "rgb(129, 77, 255)"
+      },
+      {
+        "name": "NC_DDR_DAT-B1",
+        "pcb_color": "rgb(201, 87, 255)",
+        "priority": 2,
+        "schematic_color": "rgb(255, 180, 49)"
+      },
+      {
+        "name": "NC_DDR_DAT-B2",
+        "pcb_color": "rgb(255, 88, 24)",
+        "priority": 1,
+        "schematic_color": "rgb(219, 143, 255)"
+      },
+      {
+        "name": "NC_DDR_DAT-B3",
+        "pcb_color": "rgb(67, 201, 255)",
+        "priority": 0,
+        "schematic_color": "rgb(75, 240, 255)"
+      },
+      {
         "name": "NC_DDR_DQB01",
         "pcb_color": "rgb(0, 255, 0)",
-        "priority": 1,
+        "priority": 5,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
         "name": "NC_DDR_DQB23",
         "pcb_color": "rgb(0, 194, 0)",
-        "priority": 0,
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
@@ -814,6 +838,134 @@
       {
         "netclass": "NC_DDR_DQB23",
         "pattern": "/soc/soc-ddr/DDR3_D*"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D0"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D1"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D2"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D3"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D4"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D5"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D6"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B0",
+        "pattern": "/soc/soc-ram/DDR3_D7"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D8"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D9"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D10"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D11"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D12"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D13"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D14"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B1",
+        "pattern": "/soc/soc-ram/DDR3_D15"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D16"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D17"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D18"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D19"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D20"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D21"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D22"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B2",
+        "pattern": "/soc/soc-ram/DDR3_D23"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D24"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D25"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D26"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D27"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D28"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D29"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D30"
+      },
+      {
+        "netclass": "NC_DDR_DAT-B3",
+        "pattern": "/soc/soc-ram/DDR3_D31"
       }
     ]
   },
@@ -994,20 +1146,20 @@
       "storage"
     ],
     [
-      "e85ee5d6-a507-44b5-8cb5-e5f6bbea6839",
-      "eth-phy"
+      "f589e73c-86d1-4c53-a833-568491fb153e",
+      "usb"
     ],
     [
-      "aa769d64-0dd0-48a6-88b3-65c6d6ecbe65",
-      "mezzanine"
+      "e85ee5d6-a507-44b5-8cb5-e5f6bbea6839",
+      "eth-phy"
     ],
     [
       "4d7f49bd-4dee-440f-a610-851ca079b0e2",
       "ftdi"
     ],
     [
-      "f589e73c-86d1-4c53-a833-568491fb153e",
-      "usb"
+      "aa769d64-0dd0-48a6-88b3-65c6d6ecbe65",
+      "mezzanine"
     ]
   ],
   "text_variables": {}

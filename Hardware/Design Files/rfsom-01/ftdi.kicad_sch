@@ -613,7 +613,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connectors:1054550101"
+		(symbol "Connectors:2216100001"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -625,15 +625,15 @@
 					)
 				)
 			)
-			(property "Value" "1054550101"
-				(at 0 4.826 0)
+			(property "Value" "2216100001"
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "Connectors:1054550101"
+			(property "Footprint" "Connectors:2216100001"
 				(at 0 0 0)
 				(effects
 					(font
@@ -651,7 +651,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CONN RCP USB3.1 TYPEC 24P SMD RA"
+			(property "Description" "CONN RCPT TYPE C 24POS SMD RA"
 				(at 0 2.54 0)
 				(effects
 					(font
@@ -660,7 +660,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "1054550101_0_0"
+			(symbol "2216100001_0_0"
 				(pin unspecified line
 					(at -2.54 -2.54 0)
 					(length 2.54)
@@ -1058,7 +1058,7 @@
 					)
 				)
 			)
-			(symbol "1054550101_0_1"
+			(symbol "2216100001_0_1"
 				(polyline
 					(pts
 						(xy 0 -1.27) (xy 0 -34.29)
@@ -1156,7 +1156,7 @@
 					)
 				)
 			)
-			(symbol "1054550101_1_0"
+			(symbol "2216100001_1_0"
 				(pin unspecified line
 					(at -2.54 -15.24 0)
 					(length 2.54)
@@ -1230,7 +1230,7 @@
 					)
 				)
 			)
-			(symbol "1054550101_1_1"
+			(symbol "2216100001_1_1"
 				(polyline
 					(pts
 						(xy 7.366 -4.572) (xy 7.366 -30.226)
@@ -7350,146 +7350,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connectors:1054550101")
-		(at 49.53 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2070406c-81b0-41f0-9616-9fcb423f284f")
-		(property "Reference" "J2"
-			(at 58.42 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1054550101"
-			(at 58.42 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connectors:1054550101"
-			(at 49.53 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CONN RCP USB3.1 TYPEC 24P SMD RA"
-			(at 49.53 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A4"
-			(uuid "b2c5d8a7-9dea-48e4-b187-829e46884c1d")
-		)
-		(pin "A1"
-			(uuid "bec4a529-1d50-499e-a36f-420c4fd0b2fd")
-		)
-		(pin "A8"
-			(uuid "4d48d002-9d8c-4a1a-8253-64e84eefdd9a")
-		)
-		(pin "A11"
-			(uuid "35d7824f-f414-405b-bf1c-d05fc1f8895e")
-		)
-		(pin "A3"
-			(uuid "816b64eb-6f25-4f58-8647-4c422b9ea6a3")
-		)
-		(pin "B2"
-			(uuid "2d498334-5f8e-48f5-8f58-c70680aacfe1")
-		)
-		(pin "SH1"
-			(uuid "a5d7c6b2-1c61-419a-a34a-795d19986e87")
-		)
-		(pin "A9"
-			(uuid "d8d6231e-51bb-4325-b1e2-460a0ed5f75e")
-		)
-		(pin "B6"
-			(uuid "976df502-9637-4235-bf38-2ca226c6dd94")
-		)
-		(pin "B9"
-			(uuid "e447493c-d01e-4ea6-83f8-a0eae4a13cff")
-		)
-		(pin "B1"
-			(uuid "0dd14d65-1236-4aa8-9a0e-47e5b1fee519")
-		)
-		(pin "B7"
-			(uuid "ef91569a-7b4e-4901-a197-d2239e3b02ef")
-		)
-		(pin "B12"
-			(uuid "99096ccc-8c20-4e13-8b71-90a6e3cf1339")
-		)
-		(pin "A2"
-			(uuid "8a811352-bbf1-4161-9cd8-c6cd103ba8c2")
-		)
-		(pin "A10"
-			(uuid "3424065c-65bb-4cca-929b-a9ec12abaf11")
-		)
-		(pin "B8"
-			(uuid "737958c6-443b-4c05-8206-b266ef4a0a48")
-		)
-		(pin "A12"
-			(uuid "0affad28-3a19-4a0e-8987-685c88285680")
-		)
-		(pin "B5"
-			(uuid "54f1d9c0-f7fc-4453-8e5d-0d3264efaae5")
-		)
-		(pin "B3"
-			(uuid "aa9375e6-0cde-452f-98b6-a8218eea0975")
-		)
-		(pin "A5"
-			(uuid "23331604-12f4-40d0-9041-8a3729ecf84f")
-		)
-		(pin "B4"
-			(uuid "a97ac785-03b6-4842-bdff-6cba749e8f1c")
-		)
-		(pin "B11"
-			(uuid "369a3dea-bbd8-4175-a741-5b128942dea9")
-		)
-		(pin "B10"
-			(uuid "485dff6a-c3d2-47b0-a563-a8b71eb854fe")
-		)
-		(pin "SH2"
-			(uuid "7a3fb9f8-811e-4b50-84bc-76c8d3301382")
-		)
-		(pin "A6"
-			(uuid "dadf4baa-a6ff-4d3b-9bfb-03ae754bfab8")
-		)
-		(pin "A7"
-			(uuid "7f550f17-adbc-4008-856b-697c98329ed5")
-		)
-		(instances
-			(project "rfsom-01"
-				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/4d7f49bd-4dee-440f-a610-851ca079b0e2"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Resistors:RC0603FR-135K11L")
 		(at 39.37 81.28 0)
 		(mirror y)
@@ -10122,6 +9982,146 @@
 			(project "rfsom-01"
 				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/4d7f49bd-4dee-440f-a610-851ca079b0e2"
 					(reference "R137")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connectors:2216100001")
+		(at 49.53 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e86cf36-1a0c-44fe-ba2c-75a6625de8f6")
+		(property "Reference" "J2"
+			(at 58.42 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2216100001"
+			(at 58.42 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connectors:2216100001"
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CONN RCPT TYPE C 24POS SMD RA"
+			(at 49.53 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "B3"
+			(uuid "7bb83aed-1ea0-44c9-803a-9d695dd8bf69")
+		)
+		(pin "B1"
+			(uuid "f311ef92-6a98-4d26-9a84-50c8927a2600")
+		)
+		(pin "A4"
+			(uuid "fbb077c7-f218-4f00-82ee-be545f81be4c")
+		)
+		(pin "B8"
+			(uuid "42ccb8ca-023a-419e-aea1-b089ee3f8d93")
+		)
+		(pin "A5"
+			(uuid "1952ae0b-74b4-4116-90c7-4aeaa142c076")
+		)
+		(pin "A8"
+			(uuid "0bd782db-652d-4e98-9eab-e2f008d55518")
+		)
+		(pin "A3"
+			(uuid "ca3b6419-e137-4903-8656-03a9c89491d0")
+		)
+		(pin "A10"
+			(uuid "bc1201be-f4b5-460d-98f3-9ac6224d8426")
+		)
+		(pin "B11"
+			(uuid "ad088ff3-df27-4be8-bce0-cb3e04b25996")
+		)
+		(pin "B5"
+			(uuid "a46b8570-28a0-48df-ba8b-efd9bccd8edb")
+		)
+		(pin "A2"
+			(uuid "b2a0496c-4bfe-4b18-b532-1350155d251e")
+		)
+		(pin "A11"
+			(uuid "443068d2-5d42-4398-ae92-4af8e832013d")
+		)
+		(pin "A9"
+			(uuid "64ffcc6a-301c-4491-8bba-d06f7b898430")
+		)
+		(pin "B12"
+			(uuid "ad6572c1-b75d-4413-9732-eea4c04e58e3")
+		)
+		(pin "A1"
+			(uuid "651d5dc1-4c5e-4452-8e1d-1116303b2927")
+		)
+		(pin "SH1"
+			(uuid "d3f3ba91-6304-4ca6-8bd7-6235ea16f6b2")
+		)
+		(pin "B10"
+			(uuid "d1f39d53-22b7-4633-91e0-381bbfc010ca")
+		)
+		(pin "B9"
+			(uuid "ada65ebe-a0a3-4b64-b593-fdfad428806a")
+		)
+		(pin "B4"
+			(uuid "93ccc27e-58ca-4147-affe-b725afda882b")
+		)
+		(pin "A12"
+			(uuid "c729025e-c915-4453-91ca-7544b59c105a")
+		)
+		(pin "B2"
+			(uuid "5a029b89-2345-4c84-a42c-33a26e0476ba")
+		)
+		(pin "SH2"
+			(uuid "edae2458-3522-4ba4-8096-02d7230236dc")
+		)
+		(pin "A6"
+			(uuid "bca577ad-e8cc-446f-9c72-1bdb53e6756f")
+		)
+		(pin "A7"
+			(uuid "849bdbcd-13cc-4e10-940a-90159d9e4a4f")
+		)
+		(pin "B7"
+			(uuid "3c021b5b-648b-4964-8a84-c74c444c7ae9")
+		)
+		(pin "B6"
+			(uuid "a3fc50a1-614b-432a-b1ae-120f93ca8b0b")
+		)
+		(instances
+			(project ""
+				(path "/5dade83d-850c-4336-8f49-e0e8e6ebca37/4d7f49bd-4dee-440f-a610-851ca079b0e2"
+					(reference "J2")
 					(unit 1)
 				)
 			)

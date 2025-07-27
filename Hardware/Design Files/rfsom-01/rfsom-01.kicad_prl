@@ -1,11 +1,11 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 2,
     "opacity": {
       "images": 0.6,
@@ -130,8 +130,8 @@
     "group_by_netclass": false,
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
-    "sort_ascending": false,
-    "sorting_column": 12
+    "sort_ascending": true,
+    "sorting_column": 1
   },
   "open_jobsets": [],
   "project": {
