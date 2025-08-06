@@ -4184,7 +4184,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 95.25) (xy 133.35 95.25)
+			(xy 100.33 95.25) (xy 133.35 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4214,7 +4214,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 67.31) (xy 105.41 67.31)
+			(xy 100.33 67.31) (xy 104.14 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4254,7 +4254,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 118.11) (xy 106.68 118.11)
+			(xy 101.6 118.11) (xy 106.68 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4304,7 +4304,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 97.79) (xy 133.35 97.79)
+			(xy 100.33 97.79) (xy 133.35 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4314,7 +4314,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 80.01) (xy 105.41 80.01)
+			(xy 100.33 80.01) (xy 104.14 80.01)
 		)
 		(stroke
 			(width 0)
@@ -4344,7 +4344,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 102.87) (xy 120.65 102.87)
+			(xy 100.33 102.87) (xy 120.65 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4544,7 +4544,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 74.93) (xy 105.41 74.93)
+			(xy 100.33 74.93) (xy 104.14 74.93)
 		)
 		(stroke
 			(width 0)
@@ -4664,7 +4664,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 72.39) (xy 105.41 72.39)
+			(xy 100.33 72.39) (xy 104.14 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4824,7 +4824,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 74.93) (xy 133.35 74.93)
+			(xy 111.76 74.93) (xy 133.35 74.93)
 		)
 		(stroke
 			(width 0)
@@ -4894,7 +4894,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 92.71) (xy 133.35 92.71)
+			(xy 100.33 92.71) (xy 133.35 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4934,7 +4934,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 113.03) (xy 107.95 113.03)
+			(xy 101.6 113.03) (xy 107.95 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4974,7 +4974,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 87.63) (xy 133.35 87.63)
+			(xy 100.33 87.63) (xy 133.35 87.63)
 		)
 		(stroke
 			(width 0)
@@ -5014,7 +5014,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 72.39) (xy 133.35 72.39)
+			(xy 111.76 72.39) (xy 133.35 72.39)
 		)
 		(stroke
 			(width 0)
@@ -5044,7 +5044,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 77.47) (xy 105.41 77.47)
+			(xy 100.33 77.47) (xy 104.14 77.47)
 		)
 		(stroke
 			(width 0)
@@ -5234,7 +5234,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 67.31) (xy 133.35 67.31)
+			(xy 111.76 67.31) (xy 133.35 67.31)
 		)
 		(stroke
 			(width 0)
@@ -5314,7 +5314,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 77.47) (xy 133.35 77.47)
+			(xy 111.76 77.47) (xy 133.35 77.47)
 		)
 		(stroke
 			(width 0)
@@ -5344,7 +5344,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 69.85) (xy 133.35 69.85)
+			(xy 111.76 69.85) (xy 133.35 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5414,7 +5414,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 80.01) (xy 133.35 80.01)
+			(xy 111.76 80.01) (xy 133.35 80.01)
 		)
 		(stroke
 			(width 0)
@@ -5424,7 +5424,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 69.85) (xy 105.41 69.85)
+			(xy 100.33 69.85) (xy 104.14 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5474,7 +5474,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 105.41) (xy 133.35 105.41)
+			(xy 100.33 105.41) (xy 133.35 105.41)
 		)
 		(stroke
 			(width 0)
@@ -5484,7 +5484,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 90.17) (xy 133.35 90.17)
+			(xy 100.33 90.17) (xy 133.35 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5494,7 +5494,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 85.09) (xy 133.35 85.09)
+			(xy 100.33 85.09) (xy 133.35 85.09)
 		)
 		(stroke
 			(width 0)
@@ -5544,7 +5544,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 100.33) (xy 106.68 100.33)
+			(xy 101.6 100.33) (xy 106.68 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5697,7 +5697,7 @@
 	)
 	(hierarchical_label "ENET0_RXD2"
 		(shape input)
-		(at 101.6 72.39 180)
+		(at 100.33 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5741,7 +5741,7 @@
 	)
 	(hierarchical_label "ENET0_MDC"
 		(shape input)
-		(at 101.6 105.41 180)
+		(at 100.33 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5763,7 +5763,7 @@
 	)
 	(hierarchical_label "ENET0_RXD3"
 		(shape input)
-		(at 101.6 74.93 180)
+		(at 100.33 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5796,7 +5796,7 @@
 	)
 	(hierarchical_label "ENET0_RXD1"
 		(shape input)
-		(at 101.6 69.85 180)
+		(at 100.33 69.85 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5807,7 +5807,7 @@
 	)
 	(hierarchical_label "ENET0_TXD1"
 		(shape output)
-		(at 101.6 87.63 180)
+		(at 100.33 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5818,7 +5818,7 @@
 	)
 	(hierarchical_label "ENET0_TXD2"
 		(shape output)
-		(at 101.6 90.17 180)
+		(at 100.33 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5829,7 +5829,7 @@
 	)
 	(hierarchical_label "ENET0_TXCLK"
 		(shape output)
-		(at 101.6 97.79 180)
+		(at 100.33 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5840,7 +5840,7 @@
 	)
 	(hierarchical_label "ENET0_TXD0"
 		(shape output)
-		(at 101.6 85.09 180)
+		(at 100.33 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5851,7 +5851,7 @@
 	)
 	(hierarchical_label "ENET0_TXCTL"
 		(shape output)
-		(at 101.6 95.25 180)
+		(at 100.33 95.25 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5862,7 +5862,7 @@
 	)
 	(hierarchical_label "ETH0_MDIO"
 		(shape input)
-		(at 101.6 102.87 180)
+		(at 100.33 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5873,7 +5873,7 @@
 	)
 	(hierarchical_label "ENET0_TXD3"
 		(shape output)
-		(at 101.6 92.71 180)
+		(at 100.33 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5906,7 +5906,7 @@
 	)
 	(hierarchical_label "ENET0_RXCLK"
 		(shape input)
-		(at 101.6 80.01 180)
+		(at 100.33 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5928,7 +5928,7 @@
 	)
 	(hierarchical_label "ENET0_RXD0"
 		(shape input)
-		(at 101.6 67.31 180)
+		(at 100.33 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5939,7 +5939,7 @@
 	)
 	(hierarchical_label "ENET0_RXCTL"
 		(shape input)
-		(at 101.6 77.47 180)
+		(at 100.33 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6108,7 +6108,7 @@
 	)
 	(symbol
 		(lib_id "Resistors:RC0402FR-0749R9L")
-		(at 105.41 74.93 90)
+		(at 104.14 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6116,7 +6116,7 @@
 		(dnp no)
 		(uuid "06fe4998-d90a-4d3b-bf1b-0e58dcbe435c")
 		(property "Reference" "R28"
-			(at 104.902 73.914 90)
+			(at 103.632 73.914 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6124,7 +6124,7 @@
 			)
 		)
 		(property "Value" "RC0402FR-0722RL"
-			(at 100.33 74.93 0)
+			(at 99.06 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6133,7 +6133,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 102.87 74.93 0)
+			(at 101.6 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6142,7 +6142,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 74.93 0)
+			(at 104.14 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6151,7 +6151,7 @@
 			)
 		)
 		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
-			(at 105.41 74.93 0)
+			(at 104.14 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6160,7 +6160,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 97.79 74.93 0)
+			(at 112.776 73.914 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6576,7 +6576,7 @@
 	)
 	(symbol
 		(lib_id "Miscellaneous:+VCC_1V8")
-		(at 105.41 100.33 90)
+		(at 101.6 100.33 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6584,7 +6584,7 @@
 		(dnp no)
 		(uuid "15957ad0-04c1-4f60-942b-d5519d0f08c6")
 		(property "Reference" "#PWR0159"
-			(at 109.22 100.33 0)
+			(at 105.41 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6593,7 +6593,7 @@
 			)
 		)
 		(property "Value" "+VCC_1V8"
-			(at 102.108 100.33 90)
+			(at 98.298 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6602,7 +6602,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 105.41 100.33 0)
+			(at 101.6 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6611,7 +6611,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 100.33 0)
+			(at 101.6 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6620,7 +6620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 100.33 0)
+			(at 101.6 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7575,7 +7575,7 @@
 	)
 	(symbol
 		(lib_id "Miscellaneous:+VCC_3V3")
-		(at 104.14 113.03 90)
+		(at 101.6 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7584,7 +7584,7 @@
 		(fields_autoplaced yes)
 		(uuid "39083f36-1d0c-4730-b31e-53adcd36b3ae")
 		(property "Reference" "#PWR0160"
-			(at 107.95 113.03 0)
+			(at 105.41 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7593,7 +7593,7 @@
 			)
 		)
 		(property "Value" "+VCC_3V3"
-			(at 100.33 113.0299 90)
+			(at 97.79 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7602,7 +7602,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 113.03 0)
+			(at 101.6 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7611,7 +7611,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 113.03 0)
+			(at 101.6 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7620,7 +7620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 104.14 113.03 0)
+			(at 101.6 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8597,7 +8597,7 @@
 	)
 	(symbol
 		(lib_id "Resistors:RC0402FR-0749R9L")
-		(at 105.41 80.01 90)
+		(at 104.14 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8605,7 +8605,7 @@
 		(dnp no)
 		(uuid "65fb8666-01f4-413b-a0e6-de8bf316a9e3")
 		(property "Reference" "R30"
-			(at 104.902 78.994 90)
+			(at 103.632 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8613,7 +8613,7 @@
 			)
 		)
 		(property "Value" "RC0402FR-0722RL"
-			(at 100.33 80.01 0)
+			(at 99.06 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8622,7 +8622,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 102.87 80.01 0)
+			(at 101.6 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8631,7 +8631,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 80.01 0)
+			(at 104.14 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8640,7 +8640,7 @@
 			)
 		)
 		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
-			(at 105.41 80.01 0)
+			(at 104.14 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8649,7 +8649,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 97.79 80.01 0)
+			(at 112.776 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8673,7 +8673,7 @@
 	)
 	(symbol
 		(lib_id "Resistors:RC0402FR-0749R9L")
-		(at 105.41 67.31 90)
+		(at 104.14 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8681,7 +8681,7 @@
 		(dnp no)
 		(uuid "6f8fc1db-883d-4dc4-b2dd-f77de34716f6")
 		(property "Reference" "R22"
-			(at 104.902 66.294 90)
+			(at 103.632 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8689,7 +8689,7 @@
 			)
 		)
 		(property "Value" "RC0402FR-0722RL"
-			(at 100.33 67.31 0)
+			(at 99.06 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8698,7 +8698,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 102.87 67.31 0)
+			(at 101.6 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8707,7 +8707,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 67.31 0)
+			(at 104.14 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8716,7 +8716,7 @@
 			)
 		)
 		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
-			(at 105.41 67.31 0)
+			(at 104.14 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8725,7 +8725,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 97.79 67.31 0)
+			(at 112.776 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9988,7 +9988,7 @@
 	)
 	(symbol
 		(lib_id "Resistors:RC0402FR-0749R9L")
-		(at 105.41 77.47 90)
+		(at 104.14 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9996,7 +9996,7 @@
 		(dnp no)
 		(uuid "903e2a7a-88a0-4ede-ae8f-c7553f663ef5")
 		(property "Reference" "R29"
-			(at 104.902 76.454 90)
+			(at 103.632 76.454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10004,7 +10004,7 @@
 			)
 		)
 		(property "Value" "RC0402FR-0722RL"
-			(at 100.33 77.47 0)
+			(at 99.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10013,7 +10013,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 102.87 77.47 0)
+			(at 101.6 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10022,7 +10022,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 77.47 0)
+			(at 104.14 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10031,7 +10031,7 @@
 			)
 		)
 		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
-			(at 105.41 77.47 0)
+			(at 104.14 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10040,7 +10040,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 97.79 77.47 0)
+			(at 112.776 76.454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10064,7 +10064,7 @@
 	)
 	(symbol
 		(lib_id "Resistors:RC0402FR-0749R9L")
-		(at 105.41 69.85 90)
+		(at 104.14 69.85 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10072,7 +10072,7 @@
 		(dnp no)
 		(uuid "917c224e-295f-4789-94c6-d948877a111d")
 		(property "Reference" "R23"
-			(at 104.902 68.834 90)
+			(at 103.632 68.834 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10080,7 +10080,7 @@
 			)
 		)
 		(property "Value" "RC0402FR-0722RL"
-			(at 100.33 69.85 0)
+			(at 99.06 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,7 +10089,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 102.87 69.85 0)
+			(at 101.6 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10098,7 +10098,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 69.85 0)
+			(at 104.14 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10107,7 +10107,7 @@
 			)
 		)
 		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
-			(at 105.41 69.85 0)
+			(at 104.14 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10116,7 +10116,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 97.79 69.85 0)
+			(at 112.776 68.834 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10368,7 +10368,7 @@
 		(dnp no)
 		(uuid "a86d90d7-215f-4c19-b77d-75df88ef644f")
 		(property "Reference" "R21"
-			(at 97.536 122.174 90)
+			(at 90.17 122.174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10412,7 +10412,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 89.154 122.174 90)
+			(at 98.806 122.174 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10647,7 +10647,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 104.14 118.11 270)
+		(at 101.6 118.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10655,7 +10655,7 @@
 		(dnp no)
 		(uuid "b61ae78b-659e-461c-ba6c-84995ed6b0c7")
 		(property "Reference" "#PWR0161"
-			(at 97.79 118.11 0)
+			(at 95.25 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10664,7 +10664,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 100.33 118.11 0)
+			(at 96.774 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10672,7 +10672,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 104.14 118.11 0)
+			(at 101.6 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10681,7 +10681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 104.14 118.11 0)
+			(at 101.6 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10690,7 +10690,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 104.14 118.11 0)
+			(at 101.6 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12043,7 +12043,7 @@
 	)
 	(symbol
 		(lib_id "Resistors:RC0402FR-0749R9L")
-		(at 105.41 72.39 90)
+		(at 104.14 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12051,7 +12051,7 @@
 		(dnp no)
 		(uuid "eaa24d83-29e0-4e32-b3d4-c2b42ac51516")
 		(property "Reference" "R27"
-			(at 104.902 71.374 90)
+			(at 103.632 71.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12059,7 +12059,7 @@
 			)
 		)
 		(property "Value" "RC0402FR-0722RL"
-			(at 100.33 72.39 0)
+			(at 99.06 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12068,7 +12068,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 102.87 72.39 0)
+			(at 101.6 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12077,7 +12077,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 72.39 0)
+			(at 104.14 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,7 +12086,7 @@
 			)
 		)
 		(property "Description" "RES 49.9 OHM 1% 1/16W 0402"
-			(at 105.41 72.39 0)
+			(at 104.14 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12095,7 +12095,7 @@
 			)
 		)
 		(property "Resistance" "49.9R"
-			(at 97.79 72.39 0)
+			(at 112.776 71.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -6464,7 +6464,7 @@
 		)
 		(uuid "ffb46fec-6934-4793-be86-e076567008e1")
 	)
-	(label "DDRA_DQ2"
+	(label "DDR_DQ2"
 		(at 105.41 41.91 180)
 		(effects
 			(font
@@ -6474,7 +6474,7 @@
 		)
 		(uuid "023c32dd-eb2f-4be3-92eb-d8b51b27ddd0")
 	)
-	(label "DDRA_DQ15"
+	(label "DDR_DQ15"
 		(at 105.41 74.93 180)
 		(effects
 			(font
@@ -6484,7 +6484,7 @@
 		)
 		(uuid "039f8e3f-9fdf-483a-9562-227994799675")
 	)
-	(label "DDRA_DQ8"
+	(label "DDR_DQ8"
 		(at 105.41 57.15 180)
 		(effects
 			(font
@@ -6494,7 +6494,7 @@
 		)
 		(uuid "0acc2859-6c49-4928-a550-120946bd844c")
 	)
-	(label "DDRA_DQ5"
+	(label "DDR_DQ5"
 		(at 105.41 49.53 180)
 		(effects
 			(font
@@ -6544,7 +6544,7 @@
 		)
 		(uuid "37e6758b-1b99-49c5-9d24-d4f24e463661")
 	)
-	(label "DDRA_DM1"
+	(label "DDR_DM1"
 		(at 105.41 82.55 180)
 		(effects
 			(font
@@ -6554,7 +6554,7 @@
 		)
 		(uuid "41dd603e-5eaf-4f67-8d75-d321d99ba7bd")
 	)
-	(label "DDRA_DQ0"
+	(label "DDR_DQ0"
 		(at 105.41 36.83 180)
 		(effects
 			(font
@@ -6564,7 +6564,7 @@
 		)
 		(uuid "5515a65d-81f1-41a5-81f9-ed6b8f5e69fc")
 	)
-	(label "DDRA_DQ10"
+	(label "DDR_DQ10"
 		(at 105.41 62.23 180)
 		(effects
 			(font
@@ -6574,7 +6574,7 @@
 		)
 		(uuid "5c9090b0-3c67-44ce-9fba-46d0a445e07c")
 	)
-	(label "DDRA_DQ13"
+	(label "DDR_DQ13"
 		(at 105.41 69.85 180)
 		(effects
 			(font
@@ -6594,7 +6594,7 @@
 		)
 		(uuid "68bf414b-4f44-4043-8298-eeefd4d34e75")
 	)
-	(label "DDRA_DQ1"
+	(label "DDR_DQ1"
 		(at 105.41 39.37 180)
 		(effects
 			(font
@@ -6614,7 +6614,7 @@
 		)
 		(uuid "757d1a2a-61eb-4f94-8e21-a6a94f98e2ab")
 	)
-	(label "DDRA_DQ12"
+	(label "DDR_DQ12"
 		(at 105.41 67.31 180)
 		(effects
 			(font
@@ -6624,7 +6624,7 @@
 		)
 		(uuid "7bd8c0f0-1106-4683-babd-ecaaa41944ab")
 	)
-	(label "DDRA_DQ11"
+	(label "DDR_DQ11"
 		(at 105.41 64.77 180)
 		(effects
 			(font
@@ -6674,7 +6674,7 @@
 		)
 		(uuid "92494e37-ba9e-4e6c-a1a1-800694ec1955")
 	)
-	(label "DDRA_DM0"
+	(label "DDR_DM0"
 		(at 105.41 80.01 180)
 		(effects
 			(font
@@ -6684,7 +6684,7 @@
 		)
 		(uuid "94027723-ce56-4b42-a4bd-b999a9ee0e20")
 	)
-	(label "DDRA_DQ6"
+	(label "DDR_DQ6"
 		(at 105.41 52.07 180)
 		(effects
 			(font
@@ -6744,7 +6744,7 @@
 		)
 		(uuid "b2173613-3a02-4b41-985f-8562bbc53cfe")
 	)
-	(label "DDRA_DQ7"
+	(label "DDR_DQ7"
 		(at 105.41 54.61 180)
 		(effects
 			(font
@@ -6754,7 +6754,7 @@
 		)
 		(uuid "b8cfccf9-31ed-4f22-93d2-a57336b5c271")
 	)
-	(label "DDRA_DQ4"
+	(label "DDR_DQ4"
 		(at 105.41 46.99 180)
 		(effects
 			(font
@@ -6794,7 +6794,7 @@
 		)
 		(uuid "dba81412-dac6-49ee-91d8-c0a2e87d68f6")
 	)
-	(label "DDRA_DQ14"
+	(label "DDR_DQ14"
 		(at 105.41 72.39 180)
 		(effects
 			(font
@@ -6814,7 +6814,7 @@
 		)
 		(uuid "e1f12fb3-6286-49ea-beba-6429c6b91337")
 	)
-	(label "DDRA_DQ9"
+	(label "DDR_DQ9"
 		(at 105.41 59.69 180)
 		(effects
 			(font
@@ -6824,7 +6824,7 @@
 		)
 		(uuid "e204f0db-9020-4cbc-a013-ac6b6f44069d")
 	)
-	(label "DDRA_DQ3"
+	(label "DDR_DQ3"
 		(at 105.41 44.45 180)
 		(effects
 			(font
@@ -6865,7 +6865,7 @@
 		)
 		(uuid "02dcf1c6-a3be-41ad-ac5c-9c323d158b4b")
 	)
-	(hierarchical_label "DDRA_DQ[0..15]"
+	(hierarchical_label "DDR_DQ[0..15]"
 		(shape bidirectional)
 		(at 111.76 30.48 0)
 		(effects
@@ -6876,7 +6876,7 @@
 		)
 		(uuid "059c4d91-db3d-4d57-a7e3-203b6df282d6")
 	)
-	(hierarchical_label "DDRA_DQS0+"
+	(hierarchical_label "DDR_DQS0+"
 		(shape input)
 		(at 105.41 87.63 0)
 		(effects
@@ -6909,7 +6909,7 @@
 		)
 		(uuid "35f141b6-665f-4de3-9262-2d9d13867864")
 	)
-	(hierarchical_label "DDRA_DQS0-"
+	(hierarchical_label "DDR_DQS0-"
 		(shape input)
 		(at 105.41 90.17 0)
 		(effects
@@ -6986,7 +6986,7 @@
 		)
 		(uuid "be385f1a-652d-41a8-8b88-1601bf785297")
 	)
-	(hierarchical_label "DDRA_DQS1-"
+	(hierarchical_label "DDR_DQS1-"
 		(shape input)
 		(at 105.41 95.25 0)
 		(effects
@@ -7020,7 +7020,7 @@
 			)
 		)
 	)
-	(hierarchical_label "DDRA_DQS1+"
+	(hierarchical_label "DDR_DQS1+"
 		(shape input)
 		(at 105.41 92.71 0)
 		(effects
@@ -7042,7 +7042,7 @@
 		)
 		(uuid "fd84eeaa-b647-460a-98cf-62307512aeeb")
 	)
-	(hierarchical_label "DDRA_DM[0..1]"
+	(hierarchical_label "DDR_DM[0..1]"
 		(shape bidirectional)
 		(at 113.03 74.93 0)
 		(effects
@@ -7060,7 +7060,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0671730f-de07-4ce6-944c-33400d9cae73")
 		(property "Reference" "C160"
@@ -7139,7 +7139,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0dec5421-b1b0-4d4f-b95f-f9a5a8139f19")
 		(property "Reference" "C121"
@@ -7285,7 +7285,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1107b820-784e-43a3-9552-550471f9ab62")
 		(property "Reference" "C153"
@@ -7364,7 +7364,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "12a21d9b-8506-455b-83cb-b92f3aba9271")
 		(property "Reference" "C134"
@@ -7930,7 +7930,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1f952b13-f27e-4314-bc5f-7e662750b4e1")
 		(property "Reference" "C143"
@@ -8234,7 +8234,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "322d7b60-4969-4aee-ad50-7421ceb770b0")
 		(property "Reference" "C152"
@@ -8511,7 +8511,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3c50aa8c-1cdc-43e2-8923-7698ddec874d")
 		(property "Reference" "C154"
@@ -8655,7 +8655,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3e5c07ec-0022-4991-830f-1d64098fecf8")
 		(property "Reference" "C123"
@@ -9037,7 +9037,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "529040a5-38af-4605-a997-4dc5249f6cf3")
 		(property "Reference" "C132"
@@ -9116,7 +9116,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "55530fde-4dab-4222-9750-86e0aaf6b90c")
 		(property "Reference" "U8"
@@ -9547,7 +9547,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "58d33b07-9cb3-4dec-94d7-c351e962193c")
 		(property "Reference" "C124"
@@ -9968,7 +9968,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "768a0884-ee36-4686-948b-0a09647b2965")
 		(property "Reference" "C159"
@@ -10047,7 +10047,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7af1774a-cc31-4884-b3eb-c9c25a46bb5d")
 		(property "Reference" "C144"
@@ -10126,7 +10126,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7be70ecf-95c8-42cc-8d08-5c37932833a8")
 		(property "Reference" "C122"
@@ -10205,7 +10205,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "85c79d48-1f7e-4c8d-8977-2f81b5d0880c")
 		(property "Reference" "C125"
@@ -10484,7 +10484,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8e4be58c-a8ad-46bb-afff-4761370457f3")
 		(property "Reference" "C133"
@@ -10916,7 +10916,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9c5ce999-f256-41c0-9cb5-0359a4065966")
 		(property "Reference" "C131"
@@ -10995,7 +10995,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9e3b71c2-8265-4cac-8085-5048a59fc4db")
 		(property "Reference" "R121"
@@ -11548,7 +11548,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b55cccdc-1ac7-4d52-9da4-43caa1339a81")
 		(property "Reference" "C151"
@@ -11694,7 +11694,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bd98a1f7-7a89-456b-b5fb-956773aec552")
 		(property "Reference" "C135"
@@ -11838,7 +11838,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d796fdbb-84e0-4391-839e-d59c6c1fe725")
 		(property "Reference" "C142"
@@ -11917,7 +11917,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d9a6e8da-516e-434d-9920-86b68949c893")
 		(property "Reference" "C141"
@@ -11996,7 +11996,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d9cfddcb-c83b-45bc-9774-ceee153794f6")
 		(property "Reference" "C145"
