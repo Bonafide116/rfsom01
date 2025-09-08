@@ -24748,7 +24748,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "63237782-052e-4742-975f-b2cfa456dae9")
 		(property "Reference" "#PWR012"
 			(at 43.18 46.99 0)
@@ -24759,12 +24758,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+VCC_1V5"
-			(at 43.18 38.1 0)
+		(property "Value" "+VCC_DDR_1V5"
+			(at 35.56 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
