@@ -1,0 +1,12 @@
+Rail,Voltage (V),I_typ (A),I_peak (A),P_typ (W),P_peak (W),Notes
+VCCPINT (PS core),1.0,0.22,0.4,0.22,0.4,"ARM cores, caches, interconnect; Petalinux idle to moderate load"
+VCCPAUX (PS aux),1.8,0.1,0.2,0.18,0.36,"PS peripherals, MIO aux; includes USB/Eth controllers (logic)"
+VCCPLL (PS PLLs),1.8,0.01,0.03,0.018,0.054,PS PLL bias; small but required
+VCCO_DDR (PS DDR I/O),1.35,0.4,0.7,0.54,0.945,32‑bit DDR3L @ 800 MT/s; activity dependent
+VTT_DDR (termination),0.675,0.15,0.3,0.101,0.202,Address/ctrl termination; varies with pattern
+VREF_DDR (reference),0.675,0.002,0.005,0.001,0.003,Reference divider buffer; tiny current
+VCCINT (PL core),1.0,0.3,0.6,0.3,0.6,"≈30% LUTs, 20 DSPs @ ~150 MHz for SDR DSP chain"
+VCCBRAM (PL BRAM),1.0,0.03,0.07,0.03,0.07,BRAM controllers/buffers
+VCCAUX (PL aux + clocking),1.8,0.15,0.3,0.27,0.54,"MMCM/PLL, I/O aux, config logic"
+VCCO_3V3 (I/O),3.3,0.3,0.6,0.99,1.98,"GbE PHY, USB PHY, MIO pullups, LEDs (board dependent)"
+VCCO_1V8 (I/O),1.8,0.1,0.2,0.18,0.36,1.8 V banks if used for LVDS/LVCMOS
