@@ -3,6 +3,8 @@
     "3dviewports": [],
     "design_settings": {
       "defaults": {
+        "apply_defaults_to_fp_barcodes": false,
+        "apply_defaults_to_fp_dimensions": false,
         "apply_defaults_to_fp_fields": false,
         "apply_defaults_to_fp_shapes": false,
         "apply_defaults_to_fp_text": false,
@@ -48,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.127
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.127,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -77,6 +95,7 @@
         "extra_footprint": "warning",
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
+        "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
@@ -94,6 +113,7 @@
         "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
+        "missing_tuning_profile": "warning",
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "ignore",
@@ -113,9 +133,12 @@
         "too_many_vias": "error",
         "track_angle": "error",
         "track_dangling": "warning",
+        "track_not_centered_on_via": "ignore",
+        "track_on_post_machined_layer": "error",
         "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
+        "tuning_profile_track_geometries": "ignore",
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
@@ -571,286 +594,145 @@
       "GND": "rgb(0, 132, 132)"
     },
     "netclass_assignments": {
-      "/soc/soc-ddr/DDR3_A0": [
+      "/top/soc/soc-pl/DDR3_ADDR0": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A1": [
+      "/top/soc/soc-pl/DDR3_ADDR1": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A10": [
+      "/top/soc/soc-pl/DDR3_ADDR10": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A11": [
+      "/top/soc/soc-pl/DDR3_ADDR11": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A12": [
+      "/top/soc/soc-pl/DDR3_ADDR12": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A13": [
+      "/top/soc/soc-pl/DDR3_ADDR13": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A14": [
+      "/top/soc/soc-pl/DDR3_ADDR14": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A2": [
+      "/top/soc/soc-pl/DDR3_ADDR2": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A3": [
+      "/top/soc/soc-pl/DDR3_ADDR3": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A4": [
+      "/top/soc/soc-pl/DDR3_ADDR4": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A5": [
+      "/top/soc/soc-pl/DDR3_ADDR5": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A6": [
+      "/top/soc/soc-pl/DDR3_ADDR6": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A7": [
+      "/top/soc/soc-pl/DDR3_ADDR7": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A8": [
+      "/top/soc/soc-pl/DDR3_ADDR8": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_A9": [
+      "/top/soc/soc-pl/DDR3_ADDR9": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR0": [
+      "/top/soc/soc-pl/DDR3_ADDR[0..14]": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR1": [
+      "/top/soc/soc-ram/DDR3_A0": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR10": [
+      "/top/soc/soc-ram/DDR3_A1": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR11": [
+      "/top/soc/soc-ram/DDR3_A10": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR12": [
+      "/top/soc/soc-ram/DDR3_A11": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR13": [
+      "/top/soc/soc-ram/DDR3_A12": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR14": [
+      "/top/soc/soc-ram/DDR3_A13": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR2": [
+      "/top/soc/soc-ram/DDR3_A14": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR3": [
+      "/top/soc/soc-ram/DDR3_A2": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR4": [
+      "/top/soc/soc-ram/DDR3_A3": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR5": [
+      "/top/soc/soc-ram/DDR3_A4": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR6": [
+      "/top/soc/soc-ram/DDR3_A5": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR7": [
+      "/top/soc/soc-ram/DDR3_A6": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR8": [
+      "/top/soc/soc-ram/DDR3_A7": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR9": [
+      "/top/soc/soc-ram/DDR3_A8": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-ddr/DDR3_ADDR[0..14]": [
+      "/top/soc/soc-ram/DDR3_A9": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR0": [
+      "/top/soc/soc-ram/DDR3_ADDR0": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR1": [
+      "/top/soc/soc-ram/DDR3_ADDR1": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR10": [
+      "/top/soc/soc-ram/DDR3_ADDR10": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR11": [
+      "/top/soc/soc-ram/DDR3_ADDR11": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR12": [
+      "/top/soc/soc-ram/DDR3_ADDR12": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR13": [
+      "/top/soc/soc-ram/DDR3_ADDR13": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR14": [
+      "/top/soc/soc-ram/DDR3_ADDR14": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR2": [
+      "/top/soc/soc-ram/DDR3_ADDR2": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR3": [
+      "/top/soc/soc-ram/DDR3_ADDR3": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR4": [
+      "/top/soc/soc-ram/DDR3_ADDR4": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR5": [
+      "/top/soc/soc-ram/DDR3_ADDR5": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR6": [
+      "/top/soc/soc-ram/DDR3_ADDR6": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR7": [
+      "/top/soc/soc-ram/DDR3_ADDR7": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR8": [
+      "/top/soc/soc-ram/DDR3_ADDR8": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR9": [
+      "/top/soc/soc-ram/DDR3_ADDR9": [
         "NC_DDR_ADDR"
       ],
-      "/soc/soc-pl/DDR3_ADDR[0..14]": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR0": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR1": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR10": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR11": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR12": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR13": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR14": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR2": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR3": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR4": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR5": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR6": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR7": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR8": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR9": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-pl/ram-pl/DDR_ADDR[0..14]": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A0": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A1": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A10": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A11": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A12": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A13": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A14": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A2": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A3": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A4": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A5": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A6": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A7": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A8": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_A9": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR0": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR1": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR10": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR11": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR12": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR13": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR14": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR2": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR3": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR4": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR5": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR6": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR7": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR8": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR9": [
-        "NC_DDR_ADDR"
-      ],
-      "/soc/soc-ram/DDR3_ADDR[0..14]": [
+      "/top/soc/soc-ram/DDR3_ADDR[0..14]": [
         "NC_DDR_ADDR"
       ]
     },
@@ -1129,77 +1011,81 @@
     "top_level_sheets": [
       {
         "filename": "rfsom-01.kicad_sch",
-        "name": "[01] - rfsom-01",
-        "uuid": "5dade83d-850c-4336-8f49-e0e8e6ebca37"
+        "name": "rfsom-01",
+        "uuid": "abe8d823-e11a-4177-8ce6-4f279cf45b05"
       }
     ],
-    "used_designators": "",
+    "used_designators": "S1-4,TP1-4,R1-147,U1-16,Q1,L1-5,J1-8,H1-2,#PWR1-344,Y1-4,FB1-12,D1-5,C1-224",
     "variants": []
   },
   "sheets": [
     [
-      "5dade83d-850c-4336-8f49-e0e8e6ebca37",
-      "[01] - rfsom-01"
+      "abe8d823-e11a-4177-8ce6-4f279cf45b05",
+      "rfsom-01"
     ],
     [
-      "8350ef0f-c5e8-4551-b021-24222e56f4d9",
-      "power"
-    ],
-    [
-      "b5d2488c-4141-40ec-97d6-0b993b0cde28",
-      "mcu"
+      "8f56564b-be87-47cb-af1d-0a8f839d3522",
+      "top"
     ],
     [
       "5824b29f-0639-4332-9093-651d63d89232",
       "soc"
     ],
     [
-      "ba78d23a-f291-4753-aec8-907958fe5fd2",
-      "soc-power"
+      "c75f3f86-302c-4c50-a65c-1fc9e403f136",
+      "storage"
     ],
     [
-      "d7dfbf37-049c-4b0f-b140-35f2ecd586ab",
-      "soc-ps"
+      "ba78d23a-f291-4753-aec8-907958fe5fd2",
+      "soc-power"
     ],
     [
       "a562b9f1-82d3-4f0d-aeeb-ba6ac4546394",
       "soc-ram"
     ],
     [
-      "dcd4ebf5-9bf5-4a13-8e67-04058a43970d",
-      "soc-pl"
+      "178b5612-e377-4e32-872d-1fc06b963841",
+      "ram-ps_b1"
     ],
     [
       "fd8b3978-e5de-446f-a3a4-e7f29973617d",
       "ram-ps_b2"
     ],
     [
-      "178b5612-e377-4e32-872d-1fc06b963841",
-      "ram-ps_b1"
+      "dcd4ebf5-9bf5-4a13-8e67-04058a43970d",
+      "soc-pl"
     ],
     [
       "b9a17907-8b82-4b81-8382-1e79723c135d",
       "ram-pl"
     ],
     [
-      "c75f3f86-302c-4c50-a65c-1fc9e403f136",
-      "storage"
+      "d7dfbf37-049c-4b0f-b140-35f2ecd586ab",
+      "soc-ps"
     ],
     [
       "f589e73c-86d1-4c53-a833-568491fb153e",
       "usb"
     ],
     [
+      "b5d2488c-4141-40ec-97d6-0b993b0cde28",
+      "mcu"
+    ],
+    [
       "e85ee5d6-a507-44b5-8cb5-e5f6bbea6839",
       "eth-phy"
     ],
     [
-      "4d7f49bd-4dee-440f-a610-851ca079b0e2",
-      "ftdi"
+      "8350ef0f-c5e8-4551-b021-24222e56f4d9",
+      "power"
     ],
     [
       "aa769d64-0dd0-48a6-88b3-65c6d6ecbe65",
       "mezzanine"
+    ],
+    [
+      "4d7f49bd-4dee-440f-a610-851ca079b0e2",
+      "ftdi"
     ]
   ],
   "text_variables": {},
